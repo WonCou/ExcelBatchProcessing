@@ -66,6 +66,12 @@
             this.barStaticItem40 = new DevExpress.XtraBars.BarStaticItem();
             this.barStaticItem41 = new DevExpress.XtraBars.BarStaticItem();
             this.barStaticItem42 = new DevExpress.XtraBars.BarStaticItem();
+            this.barSubItem19 = new DevExpress.XtraBars.BarSubItem();
+            this.barStaticItem59 = new DevExpress.XtraBars.BarStaticItem();
+            this.barStaticItem60 = new DevExpress.XtraBars.BarStaticItem();
+            this.barStaticItem61 = new DevExpress.XtraBars.BarStaticItem();
+            this.barStaticItem62 = new DevExpress.XtraBars.BarStaticItem();
+            this.barStaticItem63 = new DevExpress.XtraBars.BarStaticItem();
             this.barSubItem5 = new DevExpress.XtraBars.BarSubItem();
             this.barSubItem8 = new DevExpress.XtraBars.BarSubItem();
             this.barSubItem9 = new DevExpress.XtraBars.BarSubItem();
@@ -126,7 +132,87 @@
             this.accordionControlElement51 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement52 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement4 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement120 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement121 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement122 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement123 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement124 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement141 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement142 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement32 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement39 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement167 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement168 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement170 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.tabNavigationPage13 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
+            this.webBrowser4 = new System.Windows.Forms.WebBrowser();
+            this.tabNavigationPage12 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
+            this.splitContainerControl12 = new DevExpress.XtraEditors.SplitContainerControl();
+            this.accordionControl12 = new DevExpress.XtraBars.Navigation.AccordionControl();
+            this.accordionControlElement235 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement236 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement237 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement238 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement239 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement240 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement241 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement242 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement243 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement244 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement245 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement246 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement247 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement248 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement249 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement250 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement251 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.tabNavigationPage11 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
+            this.splitContainerControl11 = new DevExpress.XtraEditors.SplitContainerControl();
+            this.accordionControl11 = new DevExpress.XtraBars.Navigation.AccordionControl();
+            this.accordionControlElement218 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement219 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement220 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement221 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement222 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement230 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement193 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement194 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement195 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement199 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement200 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement211 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement231 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement232 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement233 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.tabNavigationPage10 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
+            this.splitContainerControl10 = new DevExpress.XtraEditors.SplitContainerControl();
+            this.accordionControl10 = new DevExpress.XtraBars.Navigation.AccordionControl();
+            this.accordionControlElement201 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement202 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement203 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement204 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement205 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement206 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement207 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement208 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement209 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement210 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement213 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement190 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement191 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement192 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.tabNavigationPage8 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
+            this.splitContainerControl7 = new DevExpress.XtraEditors.SplitContainerControl();
+            this.accordionControl7 = new DevExpress.XtraBars.Navigation.AccordionControl();
+            this.accordionControlElement184 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement185 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement186 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement187 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement188 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement189 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement196 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement197 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement198 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.webBrowser3 = new System.Windows.Forms.WebBrowser();
             this.tabNavigationPage9 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
             this.splitContainerControl8 = new DevExpress.XtraEditors.SplitContainerControl();
@@ -139,6 +225,15 @@
             this.accordionControlElement134 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement135 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement136 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement175 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement176 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement177 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement178 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement179 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement180 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement181 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement182 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement183 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.tabNavigationPage7 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
             this.splitContainerControl6 = new DevExpress.XtraEditors.SplitContainerControl();
             this.accordionControl6 = new DevExpress.XtraBars.Navigation.AccordionControl();
@@ -151,6 +246,14 @@
             this.accordionControlElement111 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement112 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement113 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement101 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement102 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement103 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement104 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement171 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement172 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement173 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement174 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.tabNavigationPage6 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
             this.splitContainerControl4 = new DevExpress.XtraEditors.SplitContainerControl();
             this.accordionControl4 = new DevExpress.XtraBars.Navigation.AccordionControl();
@@ -165,10 +268,6 @@
             this.accordionControlElement98 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement99 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement100 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.accordionControlElement101 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.accordionControlElement102 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.accordionControlElement103 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.accordionControlElement104 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.tabNavigationPage5 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
             this.splitContainerControl3 = new DevExpress.XtraEditors.SplitContainerControl();
             this.accordionControl3 = new DevExpress.XtraBars.Navigation.AccordionControl();
@@ -189,8 +288,6 @@
             this.accordionControlElement89 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement114 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement115 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.accordionControlElement116 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.accordionControlElement119 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement117 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement118 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.tabNavigationPage4 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
@@ -203,14 +300,14 @@
             this.accordionControlElement29 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement30 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement31 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.accordionControlElement32 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement19 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement33 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement34 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement35 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement36 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement37 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement38 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.accordionControlElement39 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement169 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.tabNavigationPage3 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
             this.splitContainerControl1 = new DevExpress.XtraEditors.SplitContainerControl();
             this.accordionControl1 = new DevExpress.XtraBars.Navigation.AccordionControl();
@@ -219,6 +316,15 @@
             this.accordionControlElement3 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement6 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement5 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement158 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement159 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement160 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement161 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement162 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement163 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement164 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement165 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement166 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement15 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement7 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement8 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
@@ -231,7 +337,6 @@
             this.accordionControlElement16 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement17 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement18 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.accordionControlElement19 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.tabNavigationPage2 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
             this.splitContainerControl9 = new DevExpress.XtraEditors.SplitContainerControl();
             this.accordionControl9 = new DevExpress.XtraBars.Navigation.AccordionControl();
@@ -251,7 +356,21 @@
             this.accordionControlElement72 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement73 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement75 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.webBrowser2 = new System.Windows.Forms.WebBrowser();
+            this.accordionControlElement143 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement144 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement145 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement146 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement147 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement148 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement149 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement150 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement151 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement152 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement153 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement154 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement155 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement156 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement157 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.tabNavigationPage1 = new DevExpress.XtraBars.Navigation.TabNavigationPage();
             this.splitContainerControl5 = new DevExpress.XtraEditors.SplitContainerControl();
             this.accordionControl5 = new DevExpress.XtraBars.Navigation.AccordionControl();
@@ -269,15 +388,36 @@
             this.accordionControlElement57 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement58 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             this.accordionControlElement59 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.webBrowser1 = new System.Windows.Forms.WebBrowser();
+            this.accordionControlElement125 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement126 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement127 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement137 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement128 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement138 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement139 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement140 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tabPane1 = new DevExpress.XtraBars.Navigation.TabPane();
-            this.accordionControlElement120 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.accordionControlElement121 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.accordionControlElement122 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.accordionControlElement123 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
-            this.accordionControlElement124 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement119 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
+            this.accordionControlElement116 = new DevExpress.XtraBars.Navigation.AccordionControlElement();
             ((System.ComponentModel.ISupportInitialize)(this.barManagerMain)).BeginInit();
+            this.tabNavigationPage13.SuspendLayout();
+            this.tabNavigationPage12.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl12)).BeginInit();
+            this.splitContainerControl12.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.accordionControl12)).BeginInit();
+            this.tabNavigationPage11.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl11)).BeginInit();
+            this.splitContainerControl11.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.accordionControl11)).BeginInit();
+            this.tabNavigationPage10.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl10)).BeginInit();
+            this.splitContainerControl10.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.accordionControl10)).BeginInit();
             this.tabNavigationPage8.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl7)).BeginInit();
+            this.splitContainerControl7.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.accordionControl7)).BeginInit();
             this.tabNavigationPage9.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl8)).BeginInit();
             this.splitContainerControl8.SuspendLayout();
@@ -310,6 +450,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl5)).BeginInit();
             this.splitContainerControl5.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.accordionControl5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tabPane1)).BeginInit();
             this.tabPane1.SuspendLayout();
             this.SuspendLayout();
@@ -402,9 +543,15 @@
             this.barStaticItem55,
             this.barStaticItem56,
             this.barStaticItem57,
-            this.barStaticItem58});
+            this.barStaticItem58,
+            this.barSubItem19,
+            this.barStaticItem59,
+            this.barStaticItem60,
+            this.barStaticItem61,
+            this.barStaticItem62,
+            this.barStaticItem63});
             this.barManagerMain.MainMenu = this.mainBar;
-            this.barManagerMain.MaxItemId = 81;
+            this.barManagerMain.MaxItemId = 87;
             this.barManagerMain.StatusBar = this.bar3;
             // 
             // mainBar
@@ -419,6 +566,7 @@
             new DevExpress.XtraBars.LinkPersistInfo(this.barSubItem2),
             new DevExpress.XtraBars.LinkPersistInfo(this.barSubItem3),
             new DevExpress.XtraBars.LinkPersistInfo(this.barSubItem4),
+            new DevExpress.XtraBars.LinkPersistInfo(this.barSubItem19),
             new DevExpress.XtraBars.LinkPersistInfo(this.barSubItem5),
             new DevExpress.XtraBars.LinkPersistInfo(this.barSubItem6),
             new DevExpress.XtraBars.LinkPersistInfo(this.barSubItem7),
@@ -664,6 +812,48 @@
             this.barStaticItem42.Caption = "属性窗口";
             this.barStaticItem42.Id = 59;
             this.barStaticItem42.Name = "barStaticItem42";
+            // 
+            // barSubItem19
+            // 
+            this.barSubItem19.Caption = "调试";
+            this.barSubItem19.Id = 81;
+            this.barSubItem19.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
+            new DevExpress.XtraBars.LinkPersistInfo(this.barStaticItem59),
+            new DevExpress.XtraBars.LinkPersistInfo(this.barStaticItem60),
+            new DevExpress.XtraBars.LinkPersistInfo(this.barStaticItem61, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.barStaticItem62),
+            new DevExpress.XtraBars.LinkPersistInfo(this.barStaticItem63, true)});
+            this.barSubItem19.Name = "barSubItem19";
+            // 
+            // barStaticItem59
+            // 
+            this.barStaticItem59.Caption = "运行";
+            this.barStaticItem59.Id = 82;
+            this.barStaticItem59.Name = "barStaticItem59";
+            // 
+            // barStaticItem60
+            // 
+            this.barStaticItem60.Caption = "中断";
+            this.barStaticItem60.Id = 83;
+            this.barStaticItem60.Name = "barStaticItem60";
+            // 
+            // barStaticItem61
+            // 
+            this.barStaticItem61.Caption = "逐语句";
+            this.barStaticItem61.Id = 84;
+            this.barStaticItem61.Name = "barStaticItem61";
+            // 
+            // barStaticItem62
+            // 
+            this.barStaticItem62.Caption = "逐过程";
+            this.barStaticItem62.Id = 85;
+            this.barStaticItem62.Name = "barStaticItem62";
+            // 
+            // barStaticItem63
+            // 
+            this.barStaticItem63.Caption = "选项";
+            this.barStaticItem63.Id = 86;
+            this.barStaticItem63.Name = "barStaticItem63";
             // 
             // barSubItem5
             // 
@@ -913,7 +1103,7 @@
             // 
             // barStaticItem9
             // 
-            this.barStaticItem9.Caption = "关于Python Learning";
+            this.barStaticItem9.Caption = "关于Java Easy Go";
             this.barStaticItem9.Id = 18;
             this.barStaticItem9.Name = "barStaticItem9";
             // 
@@ -941,7 +1131,7 @@
             // 
             // barStaticItem1
             // 
-            this.barStaticItem1.Caption = "用户：Admin";
+            this.barStaticItem1.Caption = "用户：Gem Wong";
             this.barStaticItem1.Id = 10;
             this.barStaticItem1.Name = "barStaticItem1";
             // 
@@ -1092,1146 +1282,6 @@
             this.accordionControlElement4.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
             this.accordionControlElement4.Text = "安装Python开发环境";
             // 
-            // tabNavigationPage8
-            // 
-            this.tabNavigationPage8.Caption = "tabNavigationPage8";
-            this.tabNavigationPage8.Controls.Add(this.webBrowser3);
-            this.tabNavigationPage8.Name = "tabNavigationPage8";
-            this.tabNavigationPage8.PageText = "官方网站";
-            this.tabNavigationPage8.Size = new System.Drawing.Size(915, 468);
-            // 
-            // webBrowser3
-            // 
-            this.webBrowser3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webBrowser3.Location = new System.Drawing.Point(0, 0);
-            this.webBrowser3.MinimumSize = new System.Drawing.Size(20, 20);
-            this.webBrowser3.Name = "webBrowser3";
-            this.webBrowser3.Size = new System.Drawing.Size(915, 468);
-            this.webBrowser3.TabIndex = 0;
-            this.webBrowser3.Url = new System.Uri("https://www.python.org/", System.UriKind.Absolute);
-            // 
-            // tabNavigationPage9
-            // 
-            this.tabNavigationPage9.Caption = "tabNavigationPage9";
-            this.tabNavigationPage9.Controls.Add(this.splitContainerControl8);
-            this.tabNavigationPage9.Name = "tabNavigationPage9";
-            this.tabNavigationPage9.PageText = "相关博客";
-            this.tabNavigationPage9.Size = new System.Drawing.Size(915, 468);
-            // 
-            // splitContainerControl8
-            // 
-            this.splitContainerControl8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainerControl8.Location = new System.Drawing.Point(0, 0);
-            this.splitContainerControl8.Name = "splitContainerControl8";
-            this.splitContainerControl8.Panel1.Controls.Add(this.accordionControl8);
-            this.splitContainerControl8.Panel1.Text = "Panel1";
-            this.splitContainerControl8.Panel2.Text = "Panel2";
-            this.splitContainerControl8.Size = new System.Drawing.Size(915, 468);
-            this.splitContainerControl8.SplitterPosition = 163;
-            this.splitContainerControl8.TabIndex = 4;
-            this.splitContainerControl8.Text = "splitContainerControl8";
-            // 
-            // accordionControl8
-            // 
-            this.accordionControl8.Cursor = System.Windows.Forms.Cursors.Default;
-            this.accordionControl8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.accordionControl8.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement129});
-            this.accordionControl8.Location = new System.Drawing.Point(0, 0);
-            this.accordionControl8.Name = "accordionControl8";
-            this.accordionControl8.Size = new System.Drawing.Size(163, 468);
-            this.accordionControl8.TabIndex = 1;
-            this.accordionControl8.Text = "accordionControl8";
-            // 
-            // accordionControlElement129
-            // 
-            this.accordionControlElement129.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement130,
-            this.accordionControlElement131,
-            this.accordionControlElement132,
-            this.accordionControlElement133,
-            this.accordionControlElement134,
-            this.accordionControlElement135,
-            this.accordionControlElement136});
-            this.accordionControlElement129.Expanded = true;
-            this.accordionControlElement129.Name = "accordionControlElement129";
-            this.accordionControlElement129.Text = "相关博客";
-            // 
-            // accordionControlElement130
-            // 
-            this.accordionControlElement130.Name = "accordionControlElement130";
-            this.accordionControlElement130.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement130.Text = "alloyteam 腾讯全端AlloyTeam团队博客";
-            // 
-            // accordionControlElement131
-            // 
-            this.accordionControlElement131.Name = "accordionControlElement131";
-            this.accordionControlElement131.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement131.Text = "百度FEX 百度WEB前段研发部";
-            // 
-            // accordionControlElement132
-            // 
-            this.accordionControlElement132.Name = "accordionControlElement132";
-            this.accordionControlElement132.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement132.Text = "taobaofed 淘宝前端团队FED";
-            // 
-            // accordionControlElement133
-            // 
-            this.accordionControlElement133.Name = "accordionControlElement133";
-            this.accordionControlElement133.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement133.Text = "github 开源协作，项目管理远程仓库";
-            // 
-            // accordionControlElement134
-            // 
-            this.accordionControlElement134.Name = "accordionControlElement134";
-            this.accordionControlElement134.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement134.Text = "w3cplus 提供了大量的web前端技术教程文章";
-            // 
-            // accordionControlElement135
-            // 
-            this.accordionControlElement135.Name = "accordionControlElement135";
-            this.accordionControlElement135.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement135.Text = "w3school 最大的中文Web技术基础教程";
-            // 
-            // accordionControlElement136
-            // 
-            this.accordionControlElement136.Name = "accordionControlElement136";
-            this.accordionControlElement136.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement136.Text = "专注移动互联网的IT博客";
-            // 
-            // tabNavigationPage7
-            // 
-            this.tabNavigationPage7.Caption = "tabNavigationPage7";
-            this.tabNavigationPage7.Controls.Add(this.splitContainerControl6);
-            this.tabNavigationPage7.Name = "tabNavigationPage7";
-            this.tabNavigationPage7.PageText = "精选资源";
-            this.tabNavigationPage7.Size = new System.Drawing.Size(915, 468);
-            // 
-            // splitContainerControl6
-            // 
-            this.splitContainerControl6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainerControl6.Location = new System.Drawing.Point(0, 0);
-            this.splitContainerControl6.Name = "splitContainerControl6";
-            this.splitContainerControl6.Panel1.Controls.Add(this.accordionControl6);
-            this.splitContainerControl6.Panel1.Text = "Panel1";
-            this.splitContainerControl6.Panel2.Text = "Panel2";
-            this.splitContainerControl6.Size = new System.Drawing.Size(915, 468);
-            this.splitContainerControl6.SplitterPosition = 163;
-            this.splitContainerControl6.TabIndex = 4;
-            this.splitContainerControl6.Text = "splitContainerControl6";
-            // 
-            // accordionControl6
-            // 
-            this.accordionControl6.Cursor = System.Windows.Forms.Cursors.Default;
-            this.accordionControl6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.accordionControl6.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement105});
-            this.accordionControl6.Location = new System.Drawing.Point(0, 0);
-            this.accordionControl6.Name = "accordionControl6";
-            this.accordionControl6.Size = new System.Drawing.Size(163, 468);
-            this.accordionControl6.TabIndex = 1;
-            this.accordionControl6.Text = "accordionControl6";
-            // 
-            // accordionControlElement105
-            // 
-            this.accordionControlElement105.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement106,
-            this.accordionControlElement107,
-            this.accordionControlElement108,
-            this.accordionControlElement109,
-            this.accordionControlElement110,
-            this.accordionControlElement111,
-            this.accordionControlElement112,
-            this.accordionControlElement113});
-            this.accordionControlElement105.Expanded = true;
-            this.accordionControlElement105.Name = "accordionControlElement105";
-            this.accordionControlElement105.Text = "精选资源";
-            // 
-            // accordionControlElement106
-            // 
-            this.accordionControlElement106.Name = "accordionControlElement106";
-            this.accordionControlElement106.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement106.Text = "精选网站";
-            // 
-            // accordionControlElement107
-            // 
-            this.accordionControlElement107.Name = "accordionControlElement107";
-            this.accordionControlElement107.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement107.Text = "库/框架";
-            // 
-            // accordionControlElement108
-            // 
-            this.accordionControlElement108.Name = "accordionControlElement108";
-            this.accordionControlElement108.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement108.Text = "UI库";
-            // 
-            // accordionControlElement109
-            // 
-            this.accordionControlElement109.Name = "accordionControlElement109";
-            this.accordionControlElement109.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement109.Text = "CDN静态资源";
-            // 
-            // accordionControlElement110
-            // 
-            this.accordionControlElement110.Name = "accordionControlElement110";
-            this.accordionControlElement110.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement110.Text = "统计图表";
-            // 
-            // accordionControlElement111
-            // 
-            this.accordionControlElement111.Name = "accordionControlElement111";
-            this.accordionControlElement111.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement111.Text = "代码编辑器";
-            // 
-            // accordionControlElement112
-            // 
-            this.accordionControlElement112.Name = "accordionControlElement112";
-            this.accordionControlElement112.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement112.Text = "工具";
-            // 
-            // accordionControlElement113
-            // 
-            this.accordionControlElement113.Name = "accordionControlElement113";
-            this.accordionControlElement113.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement113.Text = "PHP/MYSQL";
-            // 
-            // tabNavigationPage6
-            // 
-            this.tabNavigationPage6.Caption = "tabNavigationPage6";
-            this.tabNavigationPage6.Controls.Add(this.splitContainerControl4);
-            this.tabNavigationPage6.Name = "tabNavigationPage6";
-            this.tabNavigationPage6.PageText = "面试锦囊";
-            this.tabNavigationPage6.Size = new System.Drawing.Size(915, 468);
-            // 
-            // splitContainerControl4
-            // 
-            this.splitContainerControl4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainerControl4.Location = new System.Drawing.Point(0, 0);
-            this.splitContainerControl4.Name = "splitContainerControl4";
-            this.splitContainerControl4.Panel1.Controls.Add(this.accordionControl4);
-            this.splitContainerControl4.Panel1.Text = "Panel1";
-            this.splitContainerControl4.Panel2.Text = "Panel2";
-            this.splitContainerControl4.Size = new System.Drawing.Size(915, 468);
-            this.splitContainerControl4.SplitterPosition = 163;
-            this.splitContainerControl4.TabIndex = 4;
-            this.splitContainerControl4.Text = "splitContainerControl4";
-            // 
-            // accordionControl4
-            // 
-            this.accordionControl4.Cursor = System.Windows.Forms.Cursors.Default;
-            this.accordionControl4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.accordionControl4.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement90});
-            this.accordionControl4.Location = new System.Drawing.Point(0, 0);
-            this.accordionControl4.Name = "accordionControl4";
-            this.accordionControl4.Size = new System.Drawing.Size(163, 468);
-            this.accordionControl4.TabIndex = 1;
-            this.accordionControl4.Text = "accordionControl4";
-            // 
-            // accordionControlElement90
-            // 
-            this.accordionControlElement90.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement91,
-            this.accordionControlElement92,
-            this.accordionControlElement93,
-            this.accordionControlElement94,
-            this.accordionControlElement95,
-            this.accordionControlElement96,
-            this.accordionControlElement97,
-            this.accordionControlElement98,
-            this.accordionControlElement99,
-            this.accordionControlElement100,
-            this.accordionControlElement101,
-            this.accordionControlElement102,
-            this.accordionControlElement103,
-            this.accordionControlElement104});
-            this.accordionControlElement90.Expanded = true;
-            this.accordionControlElement90.Name = "accordionControlElement90";
-            this.accordionControlElement90.Text = "面试锦囊";
-            // 
-            // accordionControlElement91
-            // 
-            this.accordionControlElement91.Name = "accordionControlElement91";
-            this.accordionControlElement91.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement91.Text = "五百强面试经典对话";
-            // 
-            // accordionControlElement92
-            // 
-            this.accordionControlElement92.Name = "accordionControlElement92";
-            this.accordionControlElement92.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement92.Text = "外企面试中常用到的英文问答";
-            // 
-            // accordionControlElement93
-            // 
-            this.accordionControlElement93.Name = "accordionControlElement93";
-            this.accordionControlElement93.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement93.Text = "自我评估式问题";
-            // 
-            // accordionControlElement94
-            // 
-            this.accordionControlElement94.Name = "accordionControlElement94";
-            this.accordionControlElement94.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement94.Text = "处理矛盾和冲突的能力";
-            // 
-            // accordionControlElement95
-            // 
-            this.accordionControlElement95.Name = "accordionControlElement95";
-            this.accordionControlElement95.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement95.Text = "工作主动性";
-            // 
-            // accordionControlElement96
-            // 
-            this.accordionControlElement96.Name = "accordionControlElement96";
-            this.accordionControlElement96.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement96.Text = "决策和分析问题的能力";
-            // 
-            // accordionControlElement97
-            // 
-            this.accordionControlElement97.Name = "accordionControlElement97";
-            this.accordionControlElement97.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement97.Text = "客户服务类工作";
-            // 
-            // accordionControlElement98
-            // 
-            this.accordionControlElement98.Name = "accordionControlElement98";
-            this.accordionControlElement98.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement98.Text = "灵活多变性";
-            // 
-            // accordionControlElement99
-            // 
-            this.accordionControlElement99.Name = "accordionControlElement99";
-            this.accordionControlElement99.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement99.Text = "时间观念";
-            // 
-            // accordionControlElement100
-            // 
-            this.accordionControlElement100.Name = "accordionControlElement100";
-            this.accordionControlElement100.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement100.Text = "适应能力";
-            // 
-            // accordionControlElement101
-            // 
-            this.accordionControlElement101.Name = "accordionControlElement101";
-            this.accordionControlElement101.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement101.Text = "团队意识";
-            // 
-            // accordionControlElement102
-            // 
-            this.accordionControlElement102.Name = "accordionControlElement102";
-            this.accordionControlElement102.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement102.Text = "信息";
-            // 
-            // accordionControlElement103
-            // 
-            this.accordionControlElement103.Name = "accordionControlElement103";
-            this.accordionControlElement103.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement103.Text = "学习能力";
-            // 
-            // accordionControlElement104
-            // 
-            this.accordionControlElement104.Name = "accordionControlElement104";
-            this.accordionControlElement104.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement104.Text = "Python练习题14";
-            // 
-            // tabNavigationPage5
-            // 
-            this.tabNavigationPage5.Caption = "tabNavigationPage5";
-            this.tabNavigationPage5.Controls.Add(this.splitContainerControl3);
-            this.tabNavigationPage5.Name = "tabNavigationPage5";
-            this.tabNavigationPage5.PageText = "Python100例";
-            this.tabNavigationPage5.Size = new System.Drawing.Size(915, 468);
-            // 
-            // splitContainerControl3
-            // 
-            this.splitContainerControl3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainerControl3.Location = new System.Drawing.Point(0, 0);
-            this.splitContainerControl3.Name = "splitContainerControl3";
-            this.splitContainerControl3.Panel1.Controls.Add(this.accordionControl3);
-            this.splitContainerControl3.Panel1.Text = "Panel1";
-            this.splitContainerControl3.Panel2.Text = "Panel2";
-            this.splitContainerControl3.Size = new System.Drawing.Size(915, 468);
-            this.splitContainerControl3.SplitterPosition = 163;
-            this.splitContainerControl3.TabIndex = 3;
-            this.splitContainerControl3.Text = "splitContainerControl3";
-            // 
-            // accordionControl3
-            // 
-            this.accordionControl3.Cursor = System.Windows.Forms.Cursors.Default;
-            this.accordionControl3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.accordionControl3.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement40});
-            this.accordionControl3.Location = new System.Drawing.Point(0, 0);
-            this.accordionControl3.Name = "accordionControl3";
-            this.accordionControl3.Size = new System.Drawing.Size(163, 468);
-            this.accordionControl3.TabIndex = 1;
-            this.accordionControl3.Text = "accordionControl3";
-            // 
-            // accordionControlElement40
-            // 
-            this.accordionControlElement40.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement76,
-            this.accordionControlElement77,
-            this.accordionControlElement78,
-            this.accordionControlElement79,
-            this.accordionControlElement80,
-            this.accordionControlElement81,
-            this.accordionControlElement82,
-            this.accordionControlElement83,
-            this.accordionControlElement84,
-            this.accordionControlElement85,
-            this.accordionControlElement86,
-            this.accordionControlElement87,
-            this.accordionControlElement88,
-            this.accordionControlElement89,
-            this.accordionControlElement114,
-            this.accordionControlElement115,
-            this.accordionControlElement116,
-            this.accordionControlElement119,
-            this.accordionControlElement117,
-            this.accordionControlElement118});
-            this.accordionControlElement40.Expanded = true;
-            this.accordionControlElement40.Name = "accordionControlElement40";
-            this.accordionControlElement40.Text = "Python小练习";
-            // 
-            // accordionControlElement76
-            // 
-            this.accordionControlElement76.Name = "accordionControlElement76";
-            this.accordionControlElement76.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement76.Text = "Python练习题1";
-            // 
-            // accordionControlElement77
-            // 
-            this.accordionControlElement77.Name = "accordionControlElement77";
-            this.accordionControlElement77.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement77.Text = "Python练习题2";
-            // 
-            // accordionControlElement78
-            // 
-            this.accordionControlElement78.Name = "accordionControlElement78";
-            this.accordionControlElement78.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement78.Text = "Python练习题3";
-            // 
-            // accordionControlElement79
-            // 
-            this.accordionControlElement79.Name = "accordionControlElement79";
-            this.accordionControlElement79.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement79.Text = "Python练习题4";
-            // 
-            // accordionControlElement80
-            // 
-            this.accordionControlElement80.Name = "accordionControlElement80";
-            this.accordionControlElement80.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement80.Text = "Python练习题5";
-            // 
-            // accordionControlElement81
-            // 
-            this.accordionControlElement81.Name = "accordionControlElement81";
-            this.accordionControlElement81.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement81.Text = "Python练习题6";
-            // 
-            // accordionControlElement82
-            // 
-            this.accordionControlElement82.Name = "accordionControlElement82";
-            this.accordionControlElement82.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement82.Text = "Python练习题7";
-            // 
-            // accordionControlElement83
-            // 
-            this.accordionControlElement83.Name = "accordionControlElement83";
-            this.accordionControlElement83.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement83.Text = "Python练习题8";
-            // 
-            // accordionControlElement84
-            // 
-            this.accordionControlElement84.Name = "accordionControlElement84";
-            this.accordionControlElement84.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement84.Text = "Python练习题9";
-            // 
-            // accordionControlElement85
-            // 
-            this.accordionControlElement85.Name = "accordionControlElement85";
-            this.accordionControlElement85.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement85.Text = "Python练习题10";
-            // 
-            // accordionControlElement86
-            // 
-            this.accordionControlElement86.Name = "accordionControlElement86";
-            this.accordionControlElement86.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement86.Text = "Python练习题11";
-            // 
-            // accordionControlElement87
-            // 
-            this.accordionControlElement87.Name = "accordionControlElement87";
-            this.accordionControlElement87.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement87.Text = "Python练习题12";
-            // 
-            // accordionControlElement88
-            // 
-            this.accordionControlElement88.Name = "accordionControlElement88";
-            this.accordionControlElement88.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement88.Text = "Python练习题13";
-            // 
-            // accordionControlElement89
-            // 
-            this.accordionControlElement89.Name = "accordionControlElement89";
-            this.accordionControlElement89.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement89.Text = "Python练习题14";
-            // 
-            // accordionControlElement114
-            // 
-            this.accordionControlElement114.Name = "accordionControlElement114";
-            this.accordionControlElement114.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement114.Text = "Python练习题15";
-            // 
-            // accordionControlElement115
-            // 
-            this.accordionControlElement115.Name = "accordionControlElement115";
-            this.accordionControlElement115.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement115.Text = "Python练习题16";
-            // 
-            // accordionControlElement116
-            // 
-            this.accordionControlElement116.Name = "accordionControlElement116";
-            this.accordionControlElement116.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement116.Text = "Python练习题17";
-            // 
-            // accordionControlElement119
-            // 
-            this.accordionControlElement119.Name = "accordionControlElement119";
-            this.accordionControlElement119.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement119.Text = "Python练习题18";
-            // 
-            // accordionControlElement117
-            // 
-            this.accordionControlElement117.Name = "accordionControlElement117";
-            this.accordionControlElement117.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement117.Text = "Python练习题19";
-            // 
-            // accordionControlElement118
-            // 
-            this.accordionControlElement118.Name = "accordionControlElement118";
-            this.accordionControlElement118.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement118.Text = "Python练习题20";
-            // 
-            // tabNavigationPage4
-            // 
-            this.tabNavigationPage4.Caption = "tabNavigationPage4";
-            this.tabNavigationPage4.Controls.Add(this.splitContainerControl2);
-            this.tabNavigationPage4.Name = "tabNavigationPage4";
-            this.tabNavigationPage4.PageText = "Python进阶";
-            this.tabNavigationPage4.Size = new System.Drawing.Size(915, 468);
-            // 
-            // splitContainerControl2
-            // 
-            this.splitContainerControl2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainerControl2.Location = new System.Drawing.Point(0, 0);
-            this.splitContainerControl2.Name = "splitContainerControl2";
-            this.splitContainerControl2.Panel1.Controls.Add(this.accordionControl2);
-            this.splitContainerControl2.Panel1.Text = "Panel1";
-            this.splitContainerControl2.Panel2.Text = "Panel2";
-            this.splitContainerControl2.Size = new System.Drawing.Size(915, 468);
-            this.splitContainerControl2.SplitterPosition = 163;
-            this.splitContainerControl2.TabIndex = 2;
-            this.splitContainerControl2.Text = "splitContainerControl2";
-            // 
-            // accordionControl2
-            // 
-            this.accordionControl2.Cursor = System.Windows.Forms.Cursors.Default;
-            this.accordionControl2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.accordionControl2.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement20});
-            this.accordionControl2.Location = new System.Drawing.Point(0, 0);
-            this.accordionControl2.Name = "accordionControl2";
-            this.accordionControl2.Size = new System.Drawing.Size(163, 468);
-            this.accordionControl2.TabIndex = 1;
-            this.accordionControl2.Text = "accordionControl2";
-            // 
-            // accordionControlElement20
-            // 
-            this.accordionControlElement20.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement26,
-            this.accordionControlElement27,
-            this.accordionControlElement28,
-            this.accordionControlElement29,
-            this.accordionControlElement30,
-            this.accordionControlElement31,
-            this.accordionControlElement32,
-            this.accordionControlElement33,
-            this.accordionControlElement34,
-            this.accordionControlElement35,
-            this.accordionControlElement36,
-            this.accordionControlElement37,
-            this.accordionControlElement38,
-            this.accordionControlElement39});
-            this.accordionControlElement20.Expanded = true;
-            this.accordionControlElement20.Name = "accordionControlElement20";
-            this.accordionControlElement20.Text = "Python进阶";
-            // 
-            // accordionControlElement26
-            // 
-            this.accordionControlElement26.Name = "accordionControlElement26";
-            this.accordionControlElement26.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement26.Text = "调试(Debugging)";
-            // 
-            // accordionControlElement27
-            // 
-            this.accordionControlElement27.Name = "accordionControlElement27";
-            this.accordionControlElement27.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement27.Text = "生成器(Generators)";
-            // 
-            // accordionControlElement28
-            // 
-            this.accordionControlElement28.Name = "accordionControlElement28";
-            this.accordionControlElement28.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement28.Text = "可迭代对象(Iterable)";
-            // 
-            // accordionControlElement29
-            // 
-            this.accordionControlElement29.Name = "accordionControlElement29";
-            this.accordionControlElement29.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement29.Text = "迭代器(Iterator)";
-            // 
-            // accordionControlElement30
-            // 
-            this.accordionControlElement30.Name = "accordionControlElement30";
-            this.accordionControlElement30.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement30.Text = "迭代(Iteration)";
-            // 
-            // accordionControlElement31
-            // 
-            this.accordionControlElement31.Name = "accordionControlElement31";
-            this.accordionControlElement31.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement31.Text = "Map, Filter和Reduce";
-            // 
-            // accordionControlElement32
-            // 
-            this.accordionControlElement32.Name = "accordionControlElement32";
-            this.accordionControlElement32.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement32.Text = "Map";
-            // 
-            // accordionControlElement33
-            // 
-            this.accordionControlElement33.Name = "accordionControlElement33";
-            this.accordionControlElement33.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement33.Text = "Filter";
-            // 
-            // accordionControlElement34
-            // 
-            this.accordionControlElement34.Name = "accordionControlElement34";
-            this.accordionControlElement34.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement34.Text = "Reduce";
-            // 
-            // accordionControlElement35
-            // 
-            this.accordionControlElement35.Name = "accordionControlElement35";
-            this.accordionControlElement35.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement35.Text = "set数据结构";
-            // 
-            // accordionControlElement36
-            // 
-            this.accordionControlElement36.Name = "accordionControlElement36";
-            this.accordionControlElement36.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement36.Text = "三元运算符";
-            // 
-            // accordionControlElement37
-            // 
-            this.accordionControlElement37.Name = "accordionControlElement37";
-            this.accordionControlElement37.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement37.Text = "装饰器";
-            // 
-            // accordionControlElement38
-            // 
-            this.accordionControlElement38.Name = "accordionControlElement38";
-            this.accordionControlElement38.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement38.Text = "一切皆可对象";
-            // 
-            // accordionControlElement39
-            // 
-            this.accordionControlElement39.Name = "accordionControlElement39";
-            this.accordionControlElement39.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement39.Text = "在函数中定义函数";
-            // 
-            // tabNavigationPage3
-            // 
-            this.tabNavigationPage3.Caption = "tabNavigationPage3";
-            this.tabNavigationPage3.Controls.Add(this.splitContainerControl1);
-            this.tabNavigationPage3.Name = "tabNavigationPage3";
-            this.tabNavigationPage3.PageText = "零基础Python";
-            this.tabNavigationPage3.Size = new System.Drawing.Size(915, 468);
-            // 
-            // splitContainerControl1
-            // 
-            this.splitContainerControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainerControl1.Location = new System.Drawing.Point(0, 0);
-            this.splitContainerControl1.Name = "splitContainerControl1";
-            this.splitContainerControl1.Panel1.Controls.Add(this.accordionControl1);
-            this.splitContainerControl1.Panel1.Text = "Panel1";
-            this.splitContainerControl1.Panel2.Text = "Panel2";
-            this.splitContainerControl1.Size = new System.Drawing.Size(915, 468);
-            this.splitContainerControl1.SplitterPosition = 163;
-            this.splitContainerControl1.TabIndex = 2;
-            this.splitContainerControl1.Text = "splitContainerControl2";
-            // 
-            // accordionControl1
-            // 
-            this.accordionControl1.Cursor = System.Windows.Forms.Cursors.Default;
-            this.accordionControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.accordionControl1.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement1,
-            this.accordionControlElement15,
-            this.accordionControlElement11,
-            this.accordionControlElement12,
-            this.accordionControlElement13,
-            this.accordionControlElement14,
-            this.accordionControlElement16,
-            this.accordionControlElement17,
-            this.accordionControlElement18,
-            this.accordionControlElement19});
-            this.accordionControl1.Location = new System.Drawing.Point(0, 0);
-            this.accordionControl1.Name = "accordionControl1";
-            this.accordionControl1.Size = new System.Drawing.Size(163, 468);
-            this.accordionControl1.TabIndex = 1;
-            this.accordionControl1.Text = "accordionControl1";
-            // 
-            // accordionControlElement1
-            // 
-            this.accordionControlElement1.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement2,
-            this.accordionControlElement3,
-            this.accordionControlElement6,
-            this.accordionControlElement5});
-            this.accordionControlElement1.Expanded = true;
-            this.accordionControlElement1.Name = "accordionControlElement1";
-            this.accordionControlElement1.Text = "开始前准备";
-            // 
-            // accordionControlElement2
-            // 
-            this.accordionControlElement2.Name = "accordionControlElement2";
-            this.accordionControlElement2.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement2.Text = "关于Python的故事";
-            // 
-            // accordionControlElement3
-            // 
-            this.accordionControlElement3.Name = "accordionControlElement3";
-            this.accordionControlElement3.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement3.Text = "从小工到专家";
-            // 
-            // accordionControlElement6
-            // 
-            this.accordionControlElement6.Name = "accordionControlElement6";
-            this.accordionControlElement6.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement6.Text = "安装Python开发环境";
-            // 
-            // accordionControlElement5
-            // 
-            this.accordionControlElement5.Name = "accordionControlElement5";
-            this.accordionControlElement5.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement5.Text = "集成开发环境";
-            // 
-            // accordionControlElement15
-            // 
-            this.accordionControlElement15.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement7,
-            this.accordionControlElement8,
-            this.accordionControlElement9,
-            this.accordionControlElement10});
-            this.accordionControlElement15.Name = "accordionControlElement15";
-            this.accordionControlElement15.Text = "第一章 基本数据类型";
-            // 
-            // accordionControlElement7
-            // 
-            this.accordionControlElement7.Name = "accordionControlElement7";
-            this.accordionControlElement7.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement7.Text = "数和四则运算";
-            // 
-            // accordionControlElement8
-            // 
-            this.accordionControlElement8.Name = "accordionControlElement8";
-            this.accordionControlElement8.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement8.Text = "除法";
-            // 
-            // accordionControlElement9
-            // 
-            this.accordionControlElement9.Name = "accordionControlElement9";
-            this.accordionControlElement9.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement9.Text = "常用数学函数和运算优先级";
-            // 
-            // accordionControlElement10
-            // 
-            this.accordionControlElement10.Name = "accordionControlElement10";
-            this.accordionControlElement10.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement10.Text = "写一个简单程序";
-            // 
-            // accordionControlElement11
-            // 
-            this.accordionControlElement11.Name = "accordionControlElement11";
-            this.accordionControlElement11.Text = "第二章 语句和文件";
-            // 
-            // accordionControlElement12
-            // 
-            this.accordionControlElement12.Name = "accordionControlElement12";
-            this.accordionControlElement12.Text = "第三章 函数";
-            // 
-            // accordionControlElement13
-            // 
-            this.accordionControlElement13.Name = "accordionControlElement13";
-            this.accordionControlElement13.Text = "第四章 类";
-            // 
-            // accordionControlElement14
-            // 
-            this.accordionControlElement14.Name = "accordionControlElement14";
-            this.accordionControlElement14.Text = "第五章 错误和异常";
-            // 
-            // accordionControlElement16
-            // 
-            this.accordionControlElement16.Name = "accordionControlElement16";
-            this.accordionControlElement16.Text = "第六章 模块";
-            // 
-            // accordionControlElement17
-            // 
-            this.accordionControlElement17.Name = "accordionControlElement17";
-            this.accordionControlElement17.Text = "第七章 保存数据";
-            // 
-            // accordionControlElement18
-            // 
-            this.accordionControlElement18.Name = "accordionControlElement18";
-            this.accordionControlElement18.Text = "第八章 用Tornado做网站";
-            // 
-            // accordionControlElement19
-            // 
-            this.accordionControlElement19.Expanded = true;
-            this.accordionControlElement19.Name = "accordionControlElement19";
-            this.accordionControlElement19.Text = "第九章 科学计算";
-            // 
-            // tabNavigationPage2
-            // 
-            this.tabNavigationPage2.Caption = "tabNavigationPage2";
-            this.tabNavigationPage2.Controls.Add(this.splitContainerControl9);
-            this.tabNavigationPage2.Name = "tabNavigationPage2";
-            this.tabNavigationPage2.PageText = "Python3.0";
-            this.tabNavigationPage2.Size = new System.Drawing.Size(915, 468);
-            // 
-            // splitContainerControl9
-            // 
-            this.splitContainerControl9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainerControl9.Location = new System.Drawing.Point(0, 0);
-            this.splitContainerControl9.Name = "splitContainerControl9";
-            this.splitContainerControl9.Panel1.Controls.Add(this.accordionControl9);
-            this.splitContainerControl9.Panel1.Text = "Panel1";
-            this.splitContainerControl9.Panel2.Controls.Add(this.webBrowser2);
-            this.splitContainerControl9.Panel2.Text = "Panel2";
-            this.splitContainerControl9.Size = new System.Drawing.Size(915, 468);
-            this.splitContainerControl9.SplitterPosition = 163;
-            this.splitContainerControl9.TabIndex = 2;
-            this.splitContainerControl9.Text = "splitContainerControl2";
-            // 
-            // accordionControl9
-            // 
-            this.accordionControl9.Cursor = System.Windows.Forms.Cursors.Default;
-            this.accordionControl9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.accordionControl9.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement60});
-            this.accordionControl9.Location = new System.Drawing.Point(0, 0);
-            this.accordionControl9.Name = "accordionControl9";
-            this.accordionControl9.Size = new System.Drawing.Size(163, 468);
-            this.accordionControl9.TabIndex = 1;
-            this.accordionControl9.Text = "accordionControl9";
-            // 
-            // accordionControlElement60
-            // 
-            this.accordionControlElement60.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement74,
-            this.accordionControlElement61,
-            this.accordionControlElement63,
-            this.accordionControlElement64,
-            this.accordionControlElement65,
-            this.accordionControlElement66,
-            this.accordionControlElement67,
-            this.accordionControlElement68,
-            this.accordionControlElement69,
-            this.accordionControlElement70,
-            this.accordionControlElement71,
-            this.accordionControlElement62,
-            this.accordionControlElement72,
-            this.accordionControlElement73,
-            this.accordionControlElement75});
-            this.accordionControlElement60.Expanded = true;
-            this.accordionControlElement60.Name = "accordionControlElement60";
-            this.accordionControlElement60.Text = "Python3.0手册";
-            // 
-            // accordionControlElement74
-            // 
-            this.accordionControlElement74.Name = "accordionControlElement74";
-            this.accordionControlElement74.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement74.Text = "使用Python解释器";
-            // 
-            // accordionControlElement61
-            // 
-            this.accordionControlElement61.Name = "accordionControlElement61";
-            this.accordionControlElement61.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement61.Text = "Python简介";
-            // 
-            // accordionControlElement63
-            // 
-            this.accordionControlElement63.Name = "accordionControlElement63";
-            this.accordionControlElement63.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement63.Text = "深入Python流程控制";
-            // 
-            // accordionControlElement64
-            // 
-            this.accordionControlElement64.Name = "accordionControlElement64";
-            this.accordionControlElement64.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement64.Text = "数据结构";
-            // 
-            // accordionControlElement65
-            // 
-            this.accordionControlElement65.Name = "accordionControlElement65";
-            this.accordionControlElement65.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement65.Text = "模块";
-            // 
-            // accordionControlElement66
-            // 
-            this.accordionControlElement66.Name = "accordionControlElement66";
-            this.accordionControlElement66.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement66.Text = "输入和输出";
-            // 
-            // accordionControlElement67
-            // 
-            this.accordionControlElement67.Name = "accordionControlElement67";
-            this.accordionControlElement67.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement67.Text = "错误和异常";
-            // 
-            // accordionControlElement68
-            // 
-            this.accordionControlElement68.Name = "accordionControlElement68";
-            this.accordionControlElement68.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement68.Text = "类";
-            // 
-            // accordionControlElement69
-            // 
-            this.accordionControlElement69.Name = "accordionControlElement69";
-            this.accordionControlElement69.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement69.Text = "Python标准库概览";
-            // 
-            // accordionControlElement70
-            // 
-            this.accordionControlElement70.Name = "accordionControlElement70";
-            this.accordionControlElement70.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement70.Text = "标准库浏览";
-            // 
-            // accordionControlElement71
-            // 
-            this.accordionControlElement71.Name = "accordionControlElement71";
-            this.accordionControlElement71.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement71.Text = "虚拟环境和包";
-            // 
-            // accordionControlElement62
-            // 
-            this.accordionControlElement62.Name = "accordionControlElement62";
-            this.accordionControlElement62.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement62.Text = "接下来？";
-            // 
-            // accordionControlElement72
-            // 
-            this.accordionControlElement72.Name = "accordionControlElement72";
-            this.accordionControlElement72.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement72.Text = "交互式输入行编辑历史回溯";
-            // 
-            // accordionControlElement73
-            // 
-            this.accordionControlElement73.Name = "accordionControlElement73";
-            this.accordionControlElement73.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement73.Text = "浮点数算法：争议和限制";
-            // 
-            // accordionControlElement75
-            // 
-            this.accordionControlElement75.Name = "accordionControlElement75";
-            this.accordionControlElement75.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement75.Text = "附录";
-            // 
-            // webBrowser2
-            // 
-            this.webBrowser2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webBrowser2.Location = new System.Drawing.Point(0, 0);
-            this.webBrowser2.MinimumSize = new System.Drawing.Size(20, 20);
-            this.webBrowser2.Name = "webBrowser2";
-            this.webBrowser2.Size = new System.Drawing.Size(747, 468);
-            this.webBrowser2.TabIndex = 0;
-            this.webBrowser2.Url = new System.Uri("http://www.runoob.com/python3/python3-tutorial.html", System.UriKind.Absolute);
-            // 
-            // tabNavigationPage1
-            // 
-            this.tabNavigationPage1.Caption = "tabNavigationPage1";
-            this.tabNavigationPage1.Controls.Add(this.splitContainerControl5);
-            this.tabNavigationPage1.Name = "tabNavigationPage1";
-            this.tabNavigationPage1.PageText = "Python2.0";
-            this.tabNavigationPage1.Size = new System.Drawing.Size(915, 468);
-            // 
-            // splitContainerControl5
-            // 
-            this.splitContainerControl5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainerControl5.Location = new System.Drawing.Point(0, 0);
-            this.splitContainerControl5.Name = "splitContainerControl5";
-            this.splitContainerControl5.Panel1.Controls.Add(this.accordionControl5);
-            this.splitContainerControl5.Panel1.Text = "Panel1";
-            this.splitContainerControl5.Panel2.Controls.Add(this.webBrowser1);
-            this.splitContainerControl5.Panel2.Text = "Panel2";
-            this.splitContainerControl5.Size = new System.Drawing.Size(915, 468);
-            this.splitContainerControl5.SplitterPosition = 163;
-            this.splitContainerControl5.TabIndex = 1;
-            this.splitContainerControl5.Text = "splitContainerControl2";
-            // 
-            // accordionControl5
-            // 
-            this.accordionControl5.Cursor = System.Windows.Forms.Cursors.Default;
-            this.accordionControl5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.accordionControl5.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement21});
-            this.accordionControl5.Location = new System.Drawing.Point(0, 0);
-            this.accordionControl5.Name = "accordionControl5";
-            this.accordionControl5.Size = new System.Drawing.Size(163, 468);
-            this.accordionControl5.TabIndex = 1;
-            this.accordionControl5.Text = "accordionControl5";
-            // 
-            // accordionControlElement21
-            // 
-            this.accordionControlElement21.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
-            this.accordionControlElement22,
-            this.accordionControlElement23,
-            this.accordionControlElement24,
-            this.accordionControlElement53,
-            this.accordionControlElement54,
-            this.accordionControlElement45,
-            this.accordionControlElement46,
-            this.accordionControlElement47,
-            this.accordionControlElement55,
-            this.accordionControlElement56,
-            this.accordionControlElement57,
-            this.accordionControlElement58,
-            this.accordionControlElement59});
-            this.accordionControlElement21.Expanded = true;
-            this.accordionControlElement21.Name = "accordionControlElement21";
-            this.accordionControlElement21.Text = "Python2.0手册";
-            // 
-            // accordionControlElement22
-            // 
-            this.accordionControlElement22.Name = "accordionControlElement22";
-            this.accordionControlElement22.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement22.Text = "Python简介";
-            // 
-            // accordionControlElement23
-            // 
-            this.accordionControlElement23.Name = "accordionControlElement23";
-            this.accordionControlElement23.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement23.Text = "使用Python解释器";
-            // 
-            // accordionControlElement24
-            // 
-            this.accordionControlElement24.Name = "accordionControlElement24";
-            this.accordionControlElement24.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement24.Text = "深入Python流程控制";
-            // 
-            // accordionControlElement53
-            // 
-            this.accordionControlElement53.Name = "accordionControlElement53";
-            this.accordionControlElement53.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement53.Text = "数据结构";
-            // 
-            // accordionControlElement54
-            // 
-            this.accordionControlElement54.Name = "accordionControlElement54";
-            this.accordionControlElement54.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement54.Text = "模块";
-            // 
-            // accordionControlElement45
-            // 
-            this.accordionControlElement45.Name = "accordionControlElement45";
-            this.accordionControlElement45.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement45.Text = "输入和输出";
-            // 
-            // accordionControlElement46
-            // 
-            this.accordionControlElement46.Name = "accordionControlElement46";
-            this.accordionControlElement46.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement46.Text = "错误和异常";
-            // 
-            // accordionControlElement47
-            // 
-            this.accordionControlElement47.Name = "accordionControlElement47";
-            this.accordionControlElement47.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement47.Text = "类";
-            // 
-            // accordionControlElement55
-            // 
-            this.accordionControlElement55.Name = "accordionControlElement55";
-            this.accordionControlElement55.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement55.Text = "Python标准库概览";
-            // 
-            // accordionControlElement56
-            // 
-            this.accordionControlElement56.Name = "accordionControlElement56";
-            this.accordionControlElement56.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement56.Text = "标准库浏览";
-            // 
-            // accordionControlElement57
-            // 
-            this.accordionControlElement57.Name = "accordionControlElement57";
-            this.accordionControlElement57.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement57.Text = "接下来？";
-            // 
-            // accordionControlElement58
-            // 
-            this.accordionControlElement58.Name = "accordionControlElement58";
-            this.accordionControlElement58.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement58.Text = "交互式输入行编辑历史回溯";
-            // 
-            // accordionControlElement59
-            // 
-            this.accordionControlElement59.Name = "accordionControlElement59";
-            this.accordionControlElement59.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
-            this.accordionControlElement59.Text = "浮点数算法：争议和限制";
-            // 
-            // webBrowser1
-            // 
-            this.webBrowser1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webBrowser1.Location = new System.Drawing.Point(0, 0);
-            this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
-            this.webBrowser1.Name = "webBrowser1";
-            this.webBrowser1.Size = new System.Drawing.Size(747, 468);
-            this.webBrowser1.TabIndex = 0;
-            this.webBrowser1.Url = new System.Uri("http://www.runoob.com/python3/python3-tutorial.html", System.UriKind.Absolute);
-            // 
-            // tabPane1
-            // 
-            this.tabPane1.Controls.Add(this.tabNavigationPage1);
-            this.tabPane1.Controls.Add(this.tabNavigationPage2);
-            this.tabPane1.Controls.Add(this.tabNavigationPage3);
-            this.tabPane1.Controls.Add(this.tabNavigationPage4);
-            this.tabPane1.Controls.Add(this.tabNavigationPage5);
-            this.tabPane1.Controls.Add(this.tabNavigationPage6);
-            this.tabPane1.Controls.Add(this.tabNavigationPage7);
-            this.tabPane1.Controls.Add(this.tabNavigationPage8);
-            this.tabPane1.Controls.Add(this.tabNavigationPage9);
-            this.tabPane1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tabPane1.Location = new System.Drawing.Point(0, 24);
-            this.tabPane1.Name = "tabPane1";
-            this.tabPane1.Pages.AddRange(new DevExpress.XtraBars.Navigation.NavigationPageBase[] {
-            this.tabNavigationPage1,
-            this.tabNavigationPage2,
-            this.tabNavigationPage3,
-            this.tabNavigationPage4,
-            this.tabNavigationPage5,
-            this.tabNavigationPage6,
-            this.tabNavigationPage7,
-            this.tabNavigationPage9,
-            this.tabNavigationPage8});
-            this.tabPane1.RegularSize = new System.Drawing.Size(933, 514);
-            this.tabPane1.SelectedPage = this.tabNavigationPage2;
-            this.tabPane1.Size = new System.Drawing.Size(933, 514);
-            this.tabPane1.TabIndex = 21;
-            this.tabPane1.Text = "C";
-            this.tabPane1.Click += new System.EventHandler(this.tabPane1_Click);
-            // 
             // accordionControlElement120
             // 
             this.accordionControlElement120.Name = "accordionControlElement120";
@@ -2262,6 +1312,1989 @@
             this.accordionControlElement124.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
             this.accordionControlElement124.Text = "Python练习题14";
             // 
+            // accordionControlElement141
+            // 
+            this.accordionControlElement141.Name = "accordionControlElement141";
+            this.accordionControlElement141.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement141.Text = "Element137";
+            // 
+            // accordionControlElement142
+            // 
+            this.accordionControlElement142.Name = "accordionControlElement142";
+            this.accordionControlElement142.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement142.Text = "Element137";
+            // 
+            // accordionControlElement32
+            // 
+            this.accordionControlElement32.Name = "accordionControlElement32";
+            this.accordionControlElement32.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement32.Text = "Element32";
+            // 
+            // accordionControlElement39
+            // 
+            this.accordionControlElement39.Name = "accordionControlElement39";
+            this.accordionControlElement39.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement39.Text = "Element33";
+            // 
+            // accordionControlElement167
+            // 
+            this.accordionControlElement167.Name = "accordionControlElement167";
+            this.accordionControlElement167.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement167.Text = "Element33";
+            // 
+            // accordionControlElement168
+            // 
+            this.accordionControlElement168.Name = "accordionControlElement168";
+            this.accordionControlElement168.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement168.Text = "Element33";
+            // 
+            // accordionControlElement170
+            // 
+            this.accordionControlElement170.Name = "accordionControlElement170";
+            this.accordionControlElement170.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement170.Text = "Python练习题6";
+            // 
+            // tabNavigationPage13
+            // 
+            this.tabNavigationPage13.Caption = "tabNavigationPage13";
+            this.tabNavigationPage13.Controls.Add(this.webBrowser4);
+            this.tabNavigationPage13.Name = "tabNavigationPage13";
+            this.tabNavigationPage13.PageText = "网站";
+            this.tabNavigationPage13.Size = new System.Drawing.Size(915, 468);
+            // 
+            // webBrowser4
+            // 
+            this.webBrowser4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webBrowser4.Location = new System.Drawing.Point(0, 0);
+            this.webBrowser4.MinimumSize = new System.Drawing.Size(20, 20);
+            this.webBrowser4.Name = "webBrowser4";
+            this.webBrowser4.Size = new System.Drawing.Size(915, 468);
+            this.webBrowser4.TabIndex = 0;
+            this.webBrowser4.Url = new System.Uri("https://www.java.com/zh_CN/", System.UriKind.Absolute);
+            // 
+            // tabNavigationPage12
+            // 
+            this.tabNavigationPage12.Caption = "tabNavigationPage12";
+            this.tabNavigationPage12.Controls.Add(this.splitContainerControl12);
+            this.tabNavigationPage12.Name = "tabNavigationPage12";
+            this.tabNavigationPage12.PageText = "面试宝典";
+            this.tabNavigationPage12.Size = new System.Drawing.Size(915, 468);
+            // 
+            // splitContainerControl12
+            // 
+            this.splitContainerControl12.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainerControl12.Location = new System.Drawing.Point(0, 0);
+            this.splitContainerControl12.Name = "splitContainerControl12";
+            this.splitContainerControl12.Panel1.Controls.Add(this.accordionControl12);
+            this.splitContainerControl12.Panel1.Text = "Panel1";
+            this.splitContainerControl12.Panel2.Text = "Panel2";
+            this.splitContainerControl12.Size = new System.Drawing.Size(915, 468);
+            this.splitContainerControl12.SplitterPosition = 163;
+            this.splitContainerControl12.TabIndex = 5;
+            this.splitContainerControl12.Text = "splitContainerControl12";
+            // 
+            // accordionControl12
+            // 
+            this.accordionControl12.Cursor = System.Windows.Forms.Cursors.Default;
+            this.accordionControl12.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.accordionControl12.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement235,
+            this.accordionControlElement247,
+            this.accordionControlElement248,
+            this.accordionControlElement249,
+            this.accordionControlElement250,
+            this.accordionControlElement251});
+            this.accordionControl12.Location = new System.Drawing.Point(0, 0);
+            this.accordionControl12.Name = "accordionControl12";
+            this.accordionControl12.Size = new System.Drawing.Size(163, 468);
+            this.accordionControl12.TabIndex = 1;
+            this.accordionControl12.Text = "accordionControl12";
+            // 
+            // accordionControlElement235
+            // 
+            this.accordionControlElement235.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement236,
+            this.accordionControlElement237,
+            this.accordionControlElement238,
+            this.accordionControlElement239,
+            this.accordionControlElement240,
+            this.accordionControlElement241,
+            this.accordionControlElement242,
+            this.accordionControlElement243,
+            this.accordionControlElement244,
+            this.accordionControlElement245,
+            this.accordionControlElement246});
+            this.accordionControlElement235.Name = "accordionControlElement235";
+            this.accordionControlElement235.Text = "一、Java基础题";
+            // 
+            // accordionControlElement236
+            // 
+            this.accordionControlElement236.Name = "accordionControlElement236";
+            this.accordionControlElement236.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement236.Text = "HTML介绍";
+            // 
+            // accordionControlElement237
+            // 
+            this.accordionControlElement237.Name = "accordionControlElement237";
+            this.accordionControlElement237.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement237.Text = "HTML元素";
+            // 
+            // accordionControlElement238
+            // 
+            this.accordionControlElement238.Name = "accordionControlElement238";
+            this.accordionControlElement238.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement238.Text = "HTML基本标签";
+            // 
+            // accordionControlElement239
+            // 
+            this.accordionControlElement239.Name = "accordionControlElement239";
+            this.accordionControlElement239.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement239.Text = "HTML格式";
+            // 
+            // accordionControlElement240
+            // 
+            this.accordionControlElement240.Name = "accordionControlElement240";
+            this.accordionControlElement240.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement240.Text = "HTML格式";
+            // 
+            // accordionControlElement241
+            // 
+            this.accordionControlElement241.Name = "accordionControlElement241";
+            this.accordionControlElement241.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement241.Text = "HTML实体";
+            // 
+            // accordionControlElement242
+            // 
+            this.accordionControlElement242.Name = "accordionControlElement242";
+            this.accordionControlElement242.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement242.Text = "HTML链接";
+            // 
+            // accordionControlElement243
+            // 
+            this.accordionControlElement243.Name = "accordionControlElement243";
+            this.accordionControlElement243.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement243.Text = "HTML框架";
+            // 
+            // accordionControlElement244
+            // 
+            this.accordionControlElement244.Name = "accordionControlElement244";
+            this.accordionControlElement244.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement244.Text = "HTML表格";
+            // 
+            // accordionControlElement245
+            // 
+            this.accordionControlElement245.Name = "accordionControlElement245";
+            this.accordionControlElement245.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement245.Text = "HTML列表";
+            // 
+            // accordionControlElement246
+            // 
+            this.accordionControlElement246.Name = "accordionControlElement246";
+            this.accordionControlElement246.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement246.Text = "HTML表单";
+            // 
+            // accordionControlElement247
+            // 
+            this.accordionControlElement247.Name = "accordionControlElement247";
+            this.accordionControlElement247.Text = "二、Java经典编程题目";
+            // 
+            // accordionControlElement248
+            // 
+            this.accordionControlElement248.Name = "accordionControlElement248";
+            this.accordionControlElement248.Text = "三、流行框架题目";
+            // 
+            // accordionControlElement249
+            // 
+            this.accordionControlElement249.Name = "accordionControlElement249";
+            this.accordionControlElement249.Text = "四、JavaWeb题目";
+            // 
+            // accordionControlElement250
+            // 
+            this.accordionControlElement250.Name = "accordionControlElement250";
+            this.accordionControlElement250.Text = "五、数据库题目";
+            // 
+            // accordionControlElement251
+            // 
+            this.accordionControlElement251.Expanded = true;
+            this.accordionControlElement251.Name = "accordionControlElement251";
+            this.accordionControlElement251.Text = "六、Java选择题汇总";
+            // 
+            // tabNavigationPage11
+            // 
+            this.tabNavigationPage11.Caption = "tabNavigationPage11";
+            this.tabNavigationPage11.Controls.Add(this.splitContainerControl11);
+            this.tabNavigationPage11.Name = "tabNavigationPage11";
+            this.tabNavigationPage11.PageText = "Api文档";
+            this.tabNavigationPage11.Size = new System.Drawing.Size(915, 468);
+            // 
+            // splitContainerControl11
+            // 
+            this.splitContainerControl11.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainerControl11.Location = new System.Drawing.Point(0, 0);
+            this.splitContainerControl11.Name = "splitContainerControl11";
+            this.splitContainerControl11.Panel1.Controls.Add(this.accordionControl11);
+            this.splitContainerControl11.Panel1.Text = "Panel1";
+            this.splitContainerControl11.Panel2.Text = "Panel2";
+            this.splitContainerControl11.Size = new System.Drawing.Size(915, 468);
+            this.splitContainerControl11.SplitterPosition = 163;
+            this.splitContainerControl11.TabIndex = 5;
+            this.splitContainerControl11.Text = "splitContainerControl11";
+            // 
+            // accordionControl11
+            // 
+            this.accordionControl11.Cursor = System.Windows.Forms.Cursors.Default;
+            this.accordionControl11.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.accordionControl11.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement218,
+            this.accordionControlElement230,
+            this.accordionControlElement231,
+            this.accordionControlElement232,
+            this.accordionControlElement233});
+            this.accordionControl11.Location = new System.Drawing.Point(0, 0);
+            this.accordionControl11.Name = "accordionControl11";
+            this.accordionControl11.Size = new System.Drawing.Size(163, 468);
+            this.accordionControl11.TabIndex = 1;
+            this.accordionControl11.Text = "accordionControl11";
+            // 
+            // accordionControlElement218
+            // 
+            this.accordionControlElement218.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement219,
+            this.accordionControlElement220,
+            this.accordionControlElement221,
+            this.accordionControlElement222});
+            this.accordionControlElement218.Expanded = true;
+            this.accordionControlElement218.Name = "accordionControlElement218";
+            this.accordionControlElement218.Text = "一、java.io";
+            // 
+            // accordionControlElement219
+            // 
+            this.accordionControlElement219.Name = "accordionControlElement219";
+            this.accordionControlElement219.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement219.Text = "接口摘要";
+            // 
+            // accordionControlElement220
+            // 
+            this.accordionControlElement220.Name = "accordionControlElement220";
+            this.accordionControlElement220.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement220.Text = "类摘要";
+            // 
+            // accordionControlElement221
+            // 
+            this.accordionControlElement221.Name = "accordionControlElement221";
+            this.accordionControlElement221.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement221.Text = "异常摘要";
+            // 
+            // accordionControlElement222
+            // 
+            this.accordionControlElement222.Name = "accordionControlElement222";
+            this.accordionControlElement222.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement222.Text = "错误摘要";
+            // 
+            // accordionControlElement230
+            // 
+            this.accordionControlElement230.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement193,
+            this.accordionControlElement194,
+            this.accordionControlElement195,
+            this.accordionControlElement199,
+            this.accordionControlElement200,
+            this.accordionControlElement211});
+            this.accordionControlElement230.Expanded = true;
+            this.accordionControlElement230.Name = "accordionControlElement230";
+            this.accordionControlElement230.Text = "二、Java.lang";
+            // 
+            // accordionControlElement193
+            // 
+            this.accordionControlElement193.Name = "accordionControlElement193";
+            this.accordionControlElement193.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement193.Text = "接口摘要";
+            // 
+            // accordionControlElement194
+            // 
+            this.accordionControlElement194.Name = "accordionControlElement194";
+            this.accordionControlElement194.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement194.Text = "类摘要";
+            // 
+            // accordionControlElement195
+            // 
+            this.accordionControlElement195.Name = "accordionControlElement195";
+            this.accordionControlElement195.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement195.Text = "枚举摘要";
+            // 
+            // accordionControlElement199
+            // 
+            this.accordionControlElement199.Name = "accordionControlElement199";
+            this.accordionControlElement199.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement199.Text = "异常摘要";
+            // 
+            // accordionControlElement200
+            // 
+            this.accordionControlElement200.Name = "accordionControlElement200";
+            this.accordionControlElement200.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement200.Text = "错误摘要";
+            // 
+            // accordionControlElement211
+            // 
+            this.accordionControlElement211.Name = "accordionControlElement211";
+            this.accordionControlElement211.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement211.Text = "注释类型摘要";
+            // 
+            // accordionControlElement231
+            // 
+            this.accordionControlElement231.Name = "accordionControlElement231";
+            this.accordionControlElement231.Text = "三、java.lang.annotation";
+            // 
+            // accordionControlElement232
+            // 
+            this.accordionControlElement232.Name = "accordionControlElement232";
+            this.accordionControlElement232.Text = "四、java.lang.reflect";
+            // 
+            // accordionControlElement233
+            // 
+            this.accordionControlElement233.Name = "accordionControlElement233";
+            this.accordionControlElement233.Text = "五、java.math";
+            // 
+            // tabNavigationPage10
+            // 
+            this.tabNavigationPage10.Caption = "tabNavigationPage10";
+            this.tabNavigationPage10.Controls.Add(this.splitContainerControl10);
+            this.tabNavigationPage10.Name = "tabNavigationPage10";
+            this.tabNavigationPage10.PageText = "初识EE";
+            this.tabNavigationPage10.Size = new System.Drawing.Size(915, 468);
+            // 
+            // splitContainerControl10
+            // 
+            this.splitContainerControl10.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainerControl10.Location = new System.Drawing.Point(0, 0);
+            this.splitContainerControl10.Name = "splitContainerControl10";
+            this.splitContainerControl10.Panel1.Controls.Add(this.accordionControl10);
+            this.splitContainerControl10.Panel1.Text = "Panel1";
+            this.splitContainerControl10.Panel2.Text = "Panel2";
+            this.splitContainerControl10.Size = new System.Drawing.Size(915, 468);
+            this.splitContainerControl10.SplitterPosition = 163;
+            this.splitContainerControl10.TabIndex = 5;
+            this.splitContainerControl10.Text = "splitContainerControl10";
+            // 
+            // accordionControl10
+            // 
+            this.accordionControl10.Cursor = System.Windows.Forms.Cursors.Default;
+            this.accordionControl10.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.accordionControl10.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement201,
+            this.accordionControlElement213});
+            this.accordionControl10.Location = new System.Drawing.Point(0, 0);
+            this.accordionControl10.Name = "accordionControl10";
+            this.accordionControl10.Size = new System.Drawing.Size(163, 468);
+            this.accordionControl10.TabIndex = 1;
+            this.accordionControl10.Text = "accordionControl10";
+            // 
+            // accordionControlElement201
+            // 
+            this.accordionControlElement201.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement202,
+            this.accordionControlElement203,
+            this.accordionControlElement204,
+            this.accordionControlElement205,
+            this.accordionControlElement206,
+            this.accordionControlElement207,
+            this.accordionControlElement208,
+            this.accordionControlElement209,
+            this.accordionControlElement210});
+            this.accordionControlElement201.Expanded = true;
+            this.accordionControlElement201.Name = "accordionControlElement201";
+            this.accordionControlElement201.Text = "一、J2EE是什么？";
+            // 
+            // accordionControlElement202
+            // 
+            this.accordionControlElement202.Name = "accordionControlElement202";
+            this.accordionControlElement202.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement202.Text = "J2EE是什么？";
+            // 
+            // accordionControlElement203
+            // 
+            this.accordionControlElement203.Name = "accordionControlElement203";
+            this.accordionControlElement203.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement203.Text = "EJB简介";
+            // 
+            // accordionControlElement204
+            // 
+            this.accordionControlElement204.Name = "accordionControlElement204";
+            this.accordionControlElement204.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement204.Text = "EJB的编写";
+            // 
+            // accordionControlElement205
+            // 
+            this.accordionControlElement205.Name = "accordionControlElement205";
+            this.accordionControlElement205.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement205.Text = "Session Bean";
+            // 
+            // accordionControlElement206
+            // 
+            this.accordionControlElement206.Name = "accordionControlElement206";
+            this.accordionControlElement206.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement206.Text = "生命周期的标签";
+            // 
+            // accordionControlElement207
+            // 
+            this.accordionControlElement207.Name = "accordionControlElement207";
+            this.accordionControlElement207.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement207.Text = "定时服务(Timer Service)";
+            // 
+            // accordionControlElement208
+            // 
+            this.accordionControlElement208.Name = "accordionControlElement208";
+            this.accordionControlElement208.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement208.Text = "安全服务(Security Service)";
+            // 
+            // accordionControlElement209
+            // 
+            this.accordionControlElement209.Name = "accordionControlElement209";
+            this.accordionControlElement209.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement209.Text = "事务管理服务";
+            // 
+            // accordionControlElement210
+            // 
+            this.accordionControlElement210.Name = "accordionControlElement210";
+            this.accordionControlElement210.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement210.Text = "Enitity的生命周期和状态";
+            // 
+            // accordionControlElement213
+            // 
+            this.accordionControlElement213.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement190,
+            this.accordionControlElement191,
+            this.accordionControlElement192});
+            this.accordionControlElement213.Expanded = true;
+            this.accordionControlElement213.Name = "accordionControlElement213";
+            this.accordionControlElement213.Text = "二、其他";
+            // 
+            // accordionControlElement190
+            // 
+            this.accordionControlElement190.Name = "accordionControlElement190";
+            this.accordionControlElement190.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement190.Text = "应用服务器有哪些";
+            // 
+            // accordionControlElement191
+            // 
+            this.accordionControlElement191.Name = "accordionControlElement191";
+            this.accordionControlElement191.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement191.Text = "EJB容器提供的服务";
+            // 
+            // accordionControlElement192
+            // 
+            this.accordionControlElement192.Name = "accordionControlElement192";
+            this.accordionControlElement192.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement192.Text = "EJB的激活机制";
+            // 
+            // tabNavigationPage8
+            // 
+            this.tabNavigationPage8.Caption = "tabNavigationPage8";
+            this.tabNavigationPage8.Controls.Add(this.splitContainerControl7);
+            this.tabNavigationPage8.Controls.Add(this.webBrowser3);
+            this.tabNavigationPage8.Name = "tabNavigationPage8";
+            this.tabNavigationPage8.PageText = "流行框架";
+            this.tabNavigationPage8.Size = new System.Drawing.Size(915, 468);
+            // 
+            // splitContainerControl7
+            // 
+            this.splitContainerControl7.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainerControl7.Location = new System.Drawing.Point(0, 0);
+            this.splitContainerControl7.Name = "splitContainerControl7";
+            this.splitContainerControl7.Panel1.Controls.Add(this.accordionControl7);
+            this.splitContainerControl7.Panel1.Text = "Panel1";
+            this.splitContainerControl7.Panel2.Text = "Panel2";
+            this.splitContainerControl7.Size = new System.Drawing.Size(915, 468);
+            this.splitContainerControl7.SplitterPosition = 163;
+            this.splitContainerControl7.TabIndex = 5;
+            this.splitContainerControl7.Text = "splitContainerControl7";
+            // 
+            // accordionControl7
+            // 
+            this.accordionControl7.Cursor = System.Windows.Forms.Cursors.Default;
+            this.accordionControl7.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.accordionControl7.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement184,
+            this.accordionControlElement196,
+            this.accordionControlElement197,
+            this.accordionControlElement198});
+            this.accordionControl7.Location = new System.Drawing.Point(0, 0);
+            this.accordionControl7.Name = "accordionControl7";
+            this.accordionControl7.Size = new System.Drawing.Size(163, 468);
+            this.accordionControl7.TabIndex = 1;
+            this.accordionControl7.Text = "accordionControl7";
+            // 
+            // accordionControlElement184
+            // 
+            this.accordionControlElement184.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement185,
+            this.accordionControlElement186,
+            this.accordionControlElement187,
+            this.accordionControlElement188,
+            this.accordionControlElement189});
+            this.accordionControlElement184.Expanded = true;
+            this.accordionControlElement184.Name = "accordionControlElement184";
+            this.accordionControlElement184.Text = "一、struts2";
+            // 
+            // accordionControlElement185
+            // 
+            this.accordionControlElement185.Name = "accordionControlElement185";
+            this.accordionControlElement185.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement185.Text = "struts2和1的区别";
+            // 
+            // accordionControlElement186
+            // 
+            this.accordionControlElement186.Name = "accordionControlElement186";
+            this.accordionControlElement186.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement186.Text = "struts2框架的大致处理流程";
+            // 
+            // accordionControlElement187
+            // 
+            this.accordionControlElement187.Name = "accordionControlElement187";
+            this.accordionControlElement187.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement187.Text = "strtus.xml的配置";
+            // 
+            // accordionControlElement188
+            // 
+            this.accordionControlElement188.Name = "accordionControlElement188";
+            this.accordionControlElement188.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement188.Text = "strtus2的action编写";
+            // 
+            // accordionControlElement189
+            // 
+            this.accordionControlElement189.HeaderTemplate.AddRange(new DevExpress.XtraBars.Navigation.HeaderElementInfo[] {
+            new DevExpress.XtraBars.Navigation.HeaderElementInfo(DevExpress.XtraBars.Navigation.HeaderElementType.Text),
+            new DevExpress.XtraBars.Navigation.HeaderElementInfo(DevExpress.XtraBars.Navigation.HeaderElementType.Image),
+            new DevExpress.XtraBars.Navigation.HeaderElementInfo(DevExpress.XtraBars.Navigation.HeaderElementType.HeaderControl),
+            new DevExpress.XtraBars.Navigation.HeaderElementInfo(DevExpress.XtraBars.Navigation.HeaderElementType.ContextButtons)});
+            this.accordionControlElement189.Name = "accordionControlElement189";
+            this.accordionControlElement189.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement189.Text = "拦截器的编写";
+            // 
+            // accordionControlElement196
+            // 
+            this.accordionControlElement196.Expanded = true;
+            this.accordionControlElement196.Name = "accordionControlElement196";
+            this.accordionControlElement196.Text = "二、hibernate";
+            // 
+            // accordionControlElement197
+            // 
+            this.accordionControlElement197.Name = "accordionControlElement197";
+            this.accordionControlElement197.Text = "三、spring";
+            // 
+            // accordionControlElement198
+            // 
+            this.accordionControlElement198.Name = "accordionControlElement198";
+            this.accordionControlElement198.Text = "四、iBATIS";
+            // 
+            // webBrowser3
+            // 
+            this.webBrowser3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webBrowser3.Location = new System.Drawing.Point(0, 0);
+            this.webBrowser3.MinimumSize = new System.Drawing.Size(20, 20);
+            this.webBrowser3.Name = "webBrowser3";
+            this.webBrowser3.Size = new System.Drawing.Size(915, 468);
+            this.webBrowser3.TabIndex = 0;
+            this.webBrowser3.Url = new System.Uri("https://www.python.org/", System.UriKind.Absolute);
+            // 
+            // tabNavigationPage9
+            // 
+            this.tabNavigationPage9.Caption = "tabNavigationPage9";
+            this.tabNavigationPage9.Controls.Add(this.splitContainerControl8);
+            this.tabNavigationPage9.Name = "tabNavigationPage9";
+            this.tabNavigationPage9.PageText = "Web资料";
+            this.tabNavigationPage9.Size = new System.Drawing.Size(915, 468);
+            // 
+            // splitContainerControl8
+            // 
+            this.splitContainerControl8.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainerControl8.Location = new System.Drawing.Point(0, 0);
+            this.splitContainerControl8.Name = "splitContainerControl8";
+            this.splitContainerControl8.Panel1.Controls.Add(this.accordionControl8);
+            this.splitContainerControl8.Panel1.Text = "Panel1";
+            this.splitContainerControl8.Panel2.Text = "Panel2";
+            this.splitContainerControl8.Size = new System.Drawing.Size(915, 468);
+            this.splitContainerControl8.SplitterPosition = 163;
+            this.splitContainerControl8.TabIndex = 4;
+            this.splitContainerControl8.Text = "splitContainerControl8";
+            // 
+            // accordionControl8
+            // 
+            this.accordionControl8.Cursor = System.Windows.Forms.Cursors.Default;
+            this.accordionControl8.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.accordionControl8.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement129,
+            this.accordionControlElement179,
+            this.accordionControlElement180,
+            this.accordionControlElement181,
+            this.accordionControlElement182,
+            this.accordionControlElement183});
+            this.accordionControl8.Location = new System.Drawing.Point(0, 0);
+            this.accordionControl8.Name = "accordionControl8";
+            this.accordionControl8.Size = new System.Drawing.Size(163, 468);
+            this.accordionControl8.TabIndex = 1;
+            this.accordionControl8.Text = "accordionControl8";
+            // 
+            // accordionControlElement129
+            // 
+            this.accordionControlElement129.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement130,
+            this.accordionControlElement131,
+            this.accordionControlElement132,
+            this.accordionControlElement133,
+            this.accordionControlElement134,
+            this.accordionControlElement135,
+            this.accordionControlElement136,
+            this.accordionControlElement175,
+            this.accordionControlElement176,
+            this.accordionControlElement177,
+            this.accordionControlElement178});
+            this.accordionControlElement129.Name = "accordionControlElement129";
+            this.accordionControlElement129.Text = "一、HTML基础";
+            // 
+            // accordionControlElement130
+            // 
+            this.accordionControlElement130.Name = "accordionControlElement130";
+            this.accordionControlElement130.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement130.Text = "HTML介绍";
+            // 
+            // accordionControlElement131
+            // 
+            this.accordionControlElement131.Name = "accordionControlElement131";
+            this.accordionControlElement131.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement131.Text = "HTML元素";
+            // 
+            // accordionControlElement132
+            // 
+            this.accordionControlElement132.Name = "accordionControlElement132";
+            this.accordionControlElement132.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement132.Text = "HTML基本标签";
+            // 
+            // accordionControlElement133
+            // 
+            this.accordionControlElement133.Name = "accordionControlElement133";
+            this.accordionControlElement133.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement133.Text = "HTML格式";
+            // 
+            // accordionControlElement134
+            // 
+            this.accordionControlElement134.Name = "accordionControlElement134";
+            this.accordionControlElement134.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement134.Text = "HTML格式";
+            // 
+            // accordionControlElement135
+            // 
+            this.accordionControlElement135.Name = "accordionControlElement135";
+            this.accordionControlElement135.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement135.Text = "HTML实体";
+            // 
+            // accordionControlElement136
+            // 
+            this.accordionControlElement136.Name = "accordionControlElement136";
+            this.accordionControlElement136.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement136.Text = "HTML链接";
+            // 
+            // accordionControlElement175
+            // 
+            this.accordionControlElement175.Name = "accordionControlElement175";
+            this.accordionControlElement175.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement175.Text = "HTML框架";
+            // 
+            // accordionControlElement176
+            // 
+            this.accordionControlElement176.Name = "accordionControlElement176";
+            this.accordionControlElement176.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement176.Text = "HTML表格";
+            // 
+            // accordionControlElement177
+            // 
+            this.accordionControlElement177.Name = "accordionControlElement177";
+            this.accordionControlElement177.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement177.Text = "HTML列表";
+            // 
+            // accordionControlElement178
+            // 
+            this.accordionControlElement178.Name = "accordionControlElement178";
+            this.accordionControlElement178.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement178.Text = "HTML表单";
+            // 
+            // accordionControlElement179
+            // 
+            this.accordionControlElement179.Name = "accordionControlElement179";
+            this.accordionControlElement179.Text = "二、Javascript基础";
+            // 
+            // accordionControlElement180
+            // 
+            this.accordionControlElement180.Name = "accordionControlElement180";
+            this.accordionControlElement180.Text = "三、Ajax";
+            // 
+            // accordionControlElement181
+            // 
+            this.accordionControlElement181.Name = "accordionControlElement181";
+            this.accordionControlElement181.Text = "四、JSP简介";
+            // 
+            // accordionControlElement182
+            // 
+            this.accordionControlElement182.Name = "accordionControlElement182";
+            this.accordionControlElement182.Text = "五、Servlet";
+            // 
+            // accordionControlElement183
+            // 
+            this.accordionControlElement183.Name = "accordionControlElement183";
+            this.accordionControlElement183.Text = "六、css基础";
+            // 
+            // tabNavigationPage7
+            // 
+            this.tabNavigationPage7.Caption = "tabNavigationPage7";
+            this.tabNavigationPage7.Controls.Add(this.splitContainerControl6);
+            this.tabNavigationPage7.Name = "tabNavigationPage7";
+            this.tabNavigationPage7.PageText = "数据库";
+            this.tabNavigationPage7.Size = new System.Drawing.Size(915, 468);
+            // 
+            // splitContainerControl6
+            // 
+            this.splitContainerControl6.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainerControl6.Location = new System.Drawing.Point(0, 0);
+            this.splitContainerControl6.Name = "splitContainerControl6";
+            this.splitContainerControl6.Panel1.Controls.Add(this.accordionControl6);
+            this.splitContainerControl6.Panel1.Text = "Panel1";
+            this.splitContainerControl6.Panel2.Text = "Panel2";
+            this.splitContainerControl6.Size = new System.Drawing.Size(915, 468);
+            this.splitContainerControl6.SplitterPosition = 163;
+            this.splitContainerControl6.TabIndex = 4;
+            this.splitContainerControl6.Text = "splitContainerControl6";
+            // 
+            // accordionControl6
+            // 
+            this.accordionControl6.Cursor = System.Windows.Forms.Cursors.Default;
+            this.accordionControl6.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.accordionControl6.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement105,
+            this.accordionControlElement103,
+            this.accordionControlElement104,
+            this.accordionControlElement171,
+            this.accordionControlElement172,
+            this.accordionControlElement173,
+            this.accordionControlElement174});
+            this.accordionControl6.Location = new System.Drawing.Point(0, 0);
+            this.accordionControl6.Name = "accordionControl6";
+            this.accordionControl6.Size = new System.Drawing.Size(163, 468);
+            this.accordionControl6.TabIndex = 1;
+            this.accordionControl6.Text = "accordionControl6";
+            // 
+            // accordionControlElement105
+            // 
+            this.accordionControlElement105.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement106,
+            this.accordionControlElement107,
+            this.accordionControlElement108,
+            this.accordionControlElement109,
+            this.accordionControlElement110,
+            this.accordionControlElement111,
+            this.accordionControlElement112,
+            this.accordionControlElement113,
+            this.accordionControlElement101,
+            this.accordionControlElement102});
+            this.accordionControlElement105.Name = "accordionControlElement105";
+            this.accordionControlElement105.Text = "一、数据库基础";
+            // 
+            // accordionControlElement106
+            // 
+            this.accordionControlElement106.Name = "accordionControlElement106";
+            this.accordionControlElement106.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement106.Text = "主流数据库管理系统介绍";
+            // 
+            // accordionControlElement107
+            // 
+            this.accordionControlElement107.Name = "accordionControlElement107";
+            this.accordionControlElement107.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement107.Text = "Catalog";
+            // 
+            // accordionControlElement108
+            // 
+            this.accordionControlElement108.Name = "accordionControlElement108";
+            this.accordionControlElement108.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement108.Text = "表(Table)";
+            // 
+            // accordionControlElement109
+            // 
+            this.accordionControlElement109.Name = "accordionControlElement109";
+            this.accordionControlElement109.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement109.Text = "列(Column)";
+            // 
+            // accordionControlElement110
+            // 
+            this.accordionControlElement110.Name = "accordionControlElement110";
+            this.accordionControlElement110.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement110.Text = "数据类型";
+            // 
+            // accordionControlElement111
+            // 
+            this.accordionControlElement111.Name = "accordionControlElement111";
+            this.accordionControlElement111.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement111.Text = "记录(Record)";
+            // 
+            // accordionControlElement112
+            // 
+            this.accordionControlElement112.Name = "accordionControlElement112";
+            this.accordionControlElement112.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement112.Text = "主键(PrimaryKey)";
+            // 
+            // accordionControlElement113
+            // 
+            this.accordionControlElement113.Name = "accordionControlElement113";
+            this.accordionControlElement113.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement113.Text = "索引(Index)";
+            // 
+            // accordionControlElement101
+            // 
+            this.accordionControlElement101.Name = "accordionControlElement101";
+            this.accordionControlElement101.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement101.Text = "表关联";
+            // 
+            // accordionControlElement102
+            // 
+            this.accordionControlElement102.Name = "accordionControlElement102";
+            this.accordionControlElement102.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement102.Text = "数据库的语言--SQL";
+            // 
+            // accordionControlElement103
+            // 
+            this.accordionControlElement103.Name = "accordionControlElement103";
+            this.accordionControlElement103.Text = "二、数据表的创建和管理";
+            // 
+            // accordionControlElement104
+            // 
+            this.accordionControlElement104.Name = "accordionControlElement104";
+            this.accordionControlElement104.Text = "三、数据的增删改";
+            // 
+            // accordionControlElement171
+            // 
+            this.accordionControlElement171.Name = "accordionControlElement171";
+            this.accordionControlElement171.Text = "四、数据的检索";
+            // 
+            // accordionControlElement172
+            // 
+            this.accordionControlElement172.Expanded = true;
+            this.accordionControlElement172.Name = "accordionControlElement172";
+            this.accordionControlElement172.Text = "五、函数";
+            // 
+            // accordionControlElement173
+            // 
+            this.accordionControlElement173.Name = "accordionControlElement173";
+            this.accordionControlElement173.Text = "六、索引与约束";
+            // 
+            // accordionControlElement174
+            // 
+            this.accordionControlElement174.Name = "accordionControlElement174";
+            this.accordionControlElement174.Text = "七、表连接";
+            // 
+            // tabNavigationPage6
+            // 
+            this.tabNavigationPage6.Caption = "tabNavigationPage6";
+            this.tabNavigationPage6.Controls.Add(this.splitContainerControl4);
+            this.tabNavigationPage6.Name = "tabNavigationPage6";
+            this.tabNavigationPage6.PageText = "模式讲解";
+            this.tabNavigationPage6.Size = new System.Drawing.Size(915, 468);
+            // 
+            // splitContainerControl4
+            // 
+            this.splitContainerControl4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainerControl4.Location = new System.Drawing.Point(0, 0);
+            this.splitContainerControl4.Name = "splitContainerControl4";
+            this.splitContainerControl4.Panel1.Controls.Add(this.accordionControl4);
+            this.splitContainerControl4.Panel1.Text = "Panel1";
+            this.splitContainerControl4.Panel2.Text = "Panel2";
+            this.splitContainerControl4.Size = new System.Drawing.Size(915, 468);
+            this.splitContainerControl4.SplitterPosition = 163;
+            this.splitContainerControl4.TabIndex = 4;
+            this.splitContainerControl4.Text = "splitContainerControl4";
+            // 
+            // accordionControl4
+            // 
+            this.accordionControl4.Cursor = System.Windows.Forms.Cursors.Default;
+            this.accordionControl4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.accordionControl4.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement90,
+            this.accordionControlElement97,
+            this.accordionControlElement98,
+            this.accordionControlElement99,
+            this.accordionControlElement100});
+            this.accordionControl4.Location = new System.Drawing.Point(0, 0);
+            this.accordionControl4.Name = "accordionControl4";
+            this.accordionControl4.Size = new System.Drawing.Size(163, 468);
+            this.accordionControl4.TabIndex = 1;
+            this.accordionControl4.Text = "accordionControl4";
+            // 
+            // accordionControlElement90
+            // 
+            this.accordionControlElement90.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement91,
+            this.accordionControlElement92,
+            this.accordionControlElement93,
+            this.accordionControlElement94,
+            this.accordionControlElement95,
+            this.accordionControlElement96});
+            this.accordionControlElement90.Expanded = true;
+            this.accordionControlElement90.Name = "accordionControlElement90";
+            this.accordionControlElement90.Text = "一、设计模式6大原则";
+            // 
+            // accordionControlElement91
+            // 
+            this.accordionControlElement91.Name = "accordionControlElement91";
+            this.accordionControlElement91.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement91.Text = "单一职责原则";
+            // 
+            // accordionControlElement92
+            // 
+            this.accordionControlElement92.Name = "accordionControlElement92";
+            this.accordionControlElement92.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement92.Text = "里氏替换原则";
+            // 
+            // accordionControlElement93
+            // 
+            this.accordionControlElement93.Name = "accordionControlElement93";
+            this.accordionControlElement93.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement93.Text = "依赖倒置原则";
+            // 
+            // accordionControlElement94
+            // 
+            this.accordionControlElement94.Name = "accordionControlElement94";
+            this.accordionControlElement94.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement94.Text = "接口隔离原则";
+            // 
+            // accordionControlElement95
+            // 
+            this.accordionControlElement95.Name = "accordionControlElement95";
+            this.accordionControlElement95.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement95.Text = "迪米特法则";
+            // 
+            // accordionControlElement96
+            // 
+            this.accordionControlElement96.Name = "accordionControlElement96";
+            this.accordionControlElement96.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement96.Text = "开闭原则";
+            // 
+            // accordionControlElement97
+            // 
+            this.accordionControlElement97.Name = "accordionControlElement97";
+            this.accordionControlElement97.Text = "二、创建型模型";
+            // 
+            // accordionControlElement98
+            // 
+            this.accordionControlElement98.Name = "accordionControlElement98";
+            this.accordionControlElement98.Text = "三、行为型模式";
+            // 
+            // accordionControlElement99
+            // 
+            this.accordionControlElement99.Name = "accordionControlElement99";
+            this.accordionControlElement99.Text = "四、结构型模式";
+            // 
+            // accordionControlElement100
+            // 
+            this.accordionControlElement100.Name = "accordionControlElement100";
+            this.accordionControlElement100.Text = "五、UML";
+            // 
+            // tabNavigationPage5
+            // 
+            this.tabNavigationPage5.Caption = "tabNavigationPage5";
+            this.tabNavigationPage5.Controls.Add(this.splitContainerControl3);
+            this.tabNavigationPage5.Name = "tabNavigationPage5";
+            this.tabNavigationPage5.PageText = "进阶编程";
+            this.tabNavigationPage5.Size = new System.Drawing.Size(915, 468);
+            // 
+            // splitContainerControl3
+            // 
+            this.splitContainerControl3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainerControl3.Location = new System.Drawing.Point(0, 0);
+            this.splitContainerControl3.Name = "splitContainerControl3";
+            this.splitContainerControl3.Panel1.Controls.Add(this.accordionControl3);
+            this.splitContainerControl3.Panel1.Text = "Panel1";
+            this.splitContainerControl3.Panel2.Text = "Panel2";
+            this.splitContainerControl3.Size = new System.Drawing.Size(915, 468);
+            this.splitContainerControl3.SplitterPosition = 163;
+            this.splitContainerControl3.TabIndex = 3;
+            this.splitContainerControl3.Text = "splitContainerControl3";
+            // 
+            // accordionControl3
+            // 
+            this.accordionControl3.Cursor = System.Windows.Forms.Cursors.Default;
+            this.accordionControl3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.accordionControl3.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement40,
+            this.accordionControlElement87,
+            this.accordionControlElement88,
+            this.accordionControlElement89,
+            this.accordionControlElement114,
+            this.accordionControlElement115,
+            this.accordionControlElement117,
+            this.accordionControlElement118});
+            this.accordionControl3.Location = new System.Drawing.Point(0, 0);
+            this.accordionControl3.Name = "accordionControl3";
+            this.accordionControl3.Size = new System.Drawing.Size(163, 468);
+            this.accordionControl3.TabIndex = 1;
+            this.accordionControl3.Text = "accordionControl3";
+            // 
+            // accordionControlElement40
+            // 
+            this.accordionControlElement40.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement76,
+            this.accordionControlElement77,
+            this.accordionControlElement78,
+            this.accordionControlElement79,
+            this.accordionControlElement80,
+            this.accordionControlElement81,
+            this.accordionControlElement82,
+            this.accordionControlElement83,
+            this.accordionControlElement84,
+            this.accordionControlElement85,
+            this.accordionControlElement86});
+            this.accordionControlElement40.Name = "accordionControlElement40";
+            this.accordionControlElement40.Text = "一、Java多线程";
+            // 
+            // accordionControlElement76
+            // 
+            this.accordionControlElement76.Name = "accordionControlElement76";
+            this.accordionControlElement76.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement76.Text = "线程简介";
+            // 
+            // accordionControlElement77
+            // 
+            this.accordionControlElement77.Name = "accordionControlElement77";
+            this.accordionControlElement77.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement77.Text = "用Thread类创建线程";
+            // 
+            // accordionControlElement78
+            // 
+            this.accordionControlElement78.Name = "accordionControlElement78";
+            this.accordionControlElement78.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement78.Text = "使用Runnable接口创建线程";
+            // 
+            // accordionControlElement79
+            // 
+            this.accordionControlElement79.Name = "accordionControlElement79";
+            this.accordionControlElement79.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement79.Text = "线程的生命周期";
+            // 
+            // accordionControlElement80
+            // 
+            this.accordionControlElement80.Name = "accordionControlElement80";
+            this.accordionControlElement80.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement80.Text = "join方法的使用";
+            // 
+            // accordionControlElement81
+            // 
+            this.accordionControlElement81.Name = "accordionControlElement81";
+            this.accordionControlElement81.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement81.Text = "使用Synchronized块同步变量";
+            // 
+            // accordionControlElement82
+            // 
+            this.accordionControlElement82.Name = "accordionControlElement82";
+            this.accordionControlElement82.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement82.Text = "使用Synchronized关键字同步类方法";
+            // 
+            // accordionControlElement83
+            // 
+            this.accordionControlElement83.Name = "accordionControlElement83";
+            this.accordionControlElement83.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement83.Text = "使用Synchronized块同步方法";
+            // 
+            // accordionControlElement84
+            // 
+            this.accordionControlElement84.Name = "accordionControlElement84";
+            this.accordionControlElement84.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement84.Text = "从线程返回数据的两种方法";
+            // 
+            // accordionControlElement85
+            // 
+            this.accordionControlElement85.Name = "accordionControlElement85";
+            this.accordionControlElement85.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement85.Text = "向线程传递数据的三种方法";
+            // 
+            // accordionControlElement86
+            // 
+            this.accordionControlElement86.Name = "accordionControlElement86";
+            this.accordionControlElement86.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement86.Text = "慎重使用volatile关键字";
+            // 
+            // accordionControlElement87
+            // 
+            this.accordionControlElement87.Name = "accordionControlElement87";
+            this.accordionControlElement87.Text = "二、Java集合框架";
+            // 
+            // accordionControlElement88
+            // 
+            this.accordionControlElement88.Expanded = true;
+            this.accordionControlElement88.Name = "accordionControlElement88";
+            this.accordionControlElement88.Text = "三、JVM";
+            // 
+            // accordionControlElement89
+            // 
+            this.accordionControlElement89.Name = "accordionControlElement89";
+            this.accordionControlElement89.Text = "四、表达式谜题";
+            // 
+            // accordionControlElement114
+            // 
+            this.accordionControlElement114.Name = "accordionControlElement114";
+            this.accordionControlElement114.Text = "五、字符谜题";
+            // 
+            // accordionControlElement115
+            // 
+            this.accordionControlElement115.Name = "accordionControlElement115";
+            this.accordionControlElement115.Text = "六、循环谜题";
+            // 
+            // accordionControlElement117
+            // 
+            this.accordionControlElement117.Name = "accordionControlElement117";
+            this.accordionControlElement117.Text = "七、异常谜题";
+            // 
+            // accordionControlElement118
+            // 
+            this.accordionControlElement118.Name = "accordionControlElement118";
+            this.accordionControlElement118.Text = "八、类谜题";
+            // 
+            // tabNavigationPage4
+            // 
+            this.tabNavigationPage4.Caption = "tabNavigationPage4";
+            this.tabNavigationPage4.Controls.Add(this.splitContainerControl2);
+            this.tabNavigationPage4.Name = "tabNavigationPage4";
+            this.tabNavigationPage4.PageText = "算法与编程";
+            this.tabNavigationPage4.Size = new System.Drawing.Size(915, 468);
+            // 
+            // splitContainerControl2
+            // 
+            this.splitContainerControl2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainerControl2.Location = new System.Drawing.Point(0, 0);
+            this.splitContainerControl2.Name = "splitContainerControl2";
+            this.splitContainerControl2.Panel1.Controls.Add(this.accordionControl2);
+            this.splitContainerControl2.Panel1.Text = "Panel1";
+            this.splitContainerControl2.Panel2.Text = "Panel2";
+            this.splitContainerControl2.Size = new System.Drawing.Size(915, 468);
+            this.splitContainerControl2.SplitterPosition = 163;
+            this.splitContainerControl2.TabIndex = 2;
+            this.splitContainerControl2.Text = "splitContainerControl2";
+            // 
+            // accordionControl2
+            // 
+            this.accordionControl2.Cursor = System.Windows.Forms.Cursors.Default;
+            this.accordionControl2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.accordionControl2.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement20,
+            this.accordionControlElement19});
+            this.accordionControl2.Location = new System.Drawing.Point(0, 0);
+            this.accordionControl2.Name = "accordionControl2";
+            this.accordionControl2.Size = new System.Drawing.Size(163, 468);
+            this.accordionControl2.TabIndex = 1;
+            this.accordionControl2.Text = "accordionControl2";
+            // 
+            // accordionControlElement20
+            // 
+            this.accordionControlElement20.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement26,
+            this.accordionControlElement27,
+            this.accordionControlElement28,
+            this.accordionControlElement29,
+            this.accordionControlElement30,
+            this.accordionControlElement31});
+            this.accordionControlElement20.Expanded = true;
+            this.accordionControlElement20.Name = "accordionControlElement20";
+            this.accordionControlElement20.Text = "一、排序算法";
+            // 
+            // accordionControlElement26
+            // 
+            this.accordionControlElement26.Name = "accordionControlElement26";
+            this.accordionControlElement26.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement26.Text = "概述";
+            // 
+            // accordionControlElement27
+            // 
+            this.accordionControlElement27.Name = "accordionControlElement27";
+            this.accordionControlElement27.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement27.Text = "插入排序";
+            // 
+            // accordionControlElement28
+            // 
+            this.accordionControlElement28.Name = "accordionControlElement28";
+            this.accordionControlElement28.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement28.Text = "交换排序";
+            // 
+            // accordionControlElement29
+            // 
+            this.accordionControlElement29.Name = "accordionControlElement29";
+            this.accordionControlElement29.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement29.Text = "选择排序";
+            // 
+            // accordionControlElement30
+            // 
+            this.accordionControlElement30.Name = "accordionControlElement30";
+            this.accordionControlElement30.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement30.Text = "归并排序";
+            // 
+            // accordionControlElement31
+            // 
+            this.accordionControlElement31.Name = "accordionControlElement31";
+            this.accordionControlElement31.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement31.Text = "基数排序";
+            // 
+            // accordionControlElement19
+            // 
+            this.accordionControlElement19.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement33,
+            this.accordionControlElement34,
+            this.accordionControlElement35,
+            this.accordionControlElement36,
+            this.accordionControlElement37,
+            this.accordionControlElement38,
+            this.accordionControlElement169});
+            this.accordionControlElement19.Expanded = true;
+            this.accordionControlElement19.Name = "accordionControlElement19";
+            this.accordionControlElement19.Text = "二、编程实践";
+            // 
+            // accordionControlElement33
+            // 
+            this.accordionControlElement33.Name = "accordionControlElement33";
+            this.accordionControlElement33.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement33.Text = "【程序1】";
+            // 
+            // accordionControlElement34
+            // 
+            this.accordionControlElement34.Name = "accordionControlElement34";
+            this.accordionControlElement34.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement34.Text = "【程序2】";
+            // 
+            // accordionControlElement35
+            // 
+            this.accordionControlElement35.Name = "accordionControlElement35";
+            this.accordionControlElement35.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement35.Text = "【程序3】";
+            // 
+            // accordionControlElement36
+            // 
+            this.accordionControlElement36.Name = "accordionControlElement36";
+            this.accordionControlElement36.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement36.Text = "【程序4】";
+            // 
+            // accordionControlElement37
+            // 
+            this.accordionControlElement37.Name = "accordionControlElement37";
+            this.accordionControlElement37.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement37.Text = "【程序5】";
+            // 
+            // accordionControlElement38
+            // 
+            this.accordionControlElement38.Name = "accordionControlElement38";
+            this.accordionControlElement38.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement38.Text = "【程序6】";
+            // 
+            // accordionControlElement169
+            // 
+            this.accordionControlElement169.Name = "accordionControlElement169";
+            this.accordionControlElement169.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement169.Text = "【程序7】";
+            // 
+            // tabNavigationPage3
+            // 
+            this.tabNavigationPage3.Caption = "tabNavigationPage3";
+            this.tabNavigationPage3.Controls.Add(this.splitContainerControl1);
+            this.tabNavigationPage3.Name = "tabNavigationPage3";
+            this.tabNavigationPage3.PageText = "基础教程";
+            this.tabNavigationPage3.Size = new System.Drawing.Size(915, 468);
+            // 
+            // splitContainerControl1
+            // 
+            this.splitContainerControl1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainerControl1.Location = new System.Drawing.Point(0, 0);
+            this.splitContainerControl1.Name = "splitContainerControl1";
+            this.splitContainerControl1.Panel1.Controls.Add(this.accordionControl1);
+            this.splitContainerControl1.Panel1.Text = "Panel1";
+            this.splitContainerControl1.Panel2.Text = "Panel2";
+            this.splitContainerControl1.Size = new System.Drawing.Size(915, 468);
+            this.splitContainerControl1.SplitterPosition = 163;
+            this.splitContainerControl1.TabIndex = 2;
+            this.splitContainerControl1.Text = "splitContainerControl2";
+            // 
+            // accordionControl1
+            // 
+            this.accordionControl1.Cursor = System.Windows.Forms.Cursors.Default;
+            this.accordionControl1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.accordionControl1.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement1,
+            this.accordionControlElement15,
+            this.accordionControlElement11,
+            this.accordionControlElement12,
+            this.accordionControlElement13,
+            this.accordionControlElement14,
+            this.accordionControlElement16,
+            this.accordionControlElement17,
+            this.accordionControlElement18});
+            this.accordionControl1.Location = new System.Drawing.Point(0, 0);
+            this.accordionControl1.Name = "accordionControl1";
+            this.accordionControl1.Size = new System.Drawing.Size(163, 468);
+            this.accordionControl1.TabIndex = 1;
+            this.accordionControl1.Text = "accordionControl1";
+            // 
+            // accordionControlElement1
+            // 
+            this.accordionControlElement1.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement2,
+            this.accordionControlElement3,
+            this.accordionControlElement6,
+            this.accordionControlElement5,
+            this.accordionControlElement158,
+            this.accordionControlElement159,
+            this.accordionControlElement160,
+            this.accordionControlElement161,
+            this.accordionControlElement162,
+            this.accordionControlElement163,
+            this.accordionControlElement164,
+            this.accordionControlElement165,
+            this.accordionControlElement166});
+            this.accordionControlElement1.Name = "accordionControlElement1";
+            this.accordionControlElement1.Text = "一、Java简介";
+            // 
+            // accordionControlElement2
+            // 
+            this.accordionControlElement2.Name = "accordionControlElement2";
+            this.accordionControlElement2.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement2.Text = "基本概念";
+            // 
+            // accordionControlElement3
+            // 
+            this.accordionControlElement3.Name = "accordionControlElement3";
+            this.accordionControlElement3.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement3.Text = "基本语法";
+            // 
+            // accordionControlElement6
+            // 
+            this.accordionControlElement6.Name = "accordionControlElement6";
+            this.accordionControlElement6.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement6.Text = "Java关键字";
+            // 
+            // accordionControlElement5
+            // 
+            this.accordionControlElement5.Name = "accordionControlElement5";
+            this.accordionControlElement5.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement5.Text = "Java历史发展";
+            // 
+            // accordionControlElement158
+            // 
+            this.accordionControlElement158.Name = "accordionControlElement158";
+            this.accordionControlElement158.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement158.Text = "Java特点";
+            // 
+            // accordionControlElement159
+            // 
+            this.accordionControlElement159.Name = "accordionControlElement159";
+            this.accordionControlElement159.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement159.Text = "Java相关技术";
+            // 
+            // accordionControlElement160
+            // 
+            this.accordionControlElement160.Name = "accordionControlElement160";
+            this.accordionControlElement160.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement160.Text = "Java框架服务";
+            // 
+            // accordionControlElement161
+            // 
+            this.accordionControlElement161.Name = "accordionControlElement161";
+            this.accordionControlElement161.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement161.Text = "开发工具";
+            // 
+            // accordionControlElement162
+            // 
+            this.accordionControlElement162.Name = "accordionControlElement162";
+            this.accordionControlElement162.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement162.Text = "架构设计";
+            // 
+            // accordionControlElement163
+            // 
+            this.accordionControlElement163.Name = "accordionControlElement163";
+            this.accordionControlElement163.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement163.Text = "发展前景";
+            // 
+            // accordionControlElement164
+            // 
+            this.accordionControlElement164.Name = "accordionControlElement164";
+            this.accordionControlElement164.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement164.Text = "其他应用";
+            // 
+            // accordionControlElement165
+            // 
+            this.accordionControlElement165.Name = "accordionControlElement165";
+            this.accordionControlElement165.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement165.Text = "eclipse(集成开发环境)";
+            // 
+            // accordionControlElement166
+            // 
+            this.accordionControlElement166.Name = "accordionControlElement166";
+            this.accordionControlElement166.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement166.Text = "Java开发环境";
+            // 
+            // accordionControlElement15
+            // 
+            this.accordionControlElement15.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement7,
+            this.accordionControlElement8,
+            this.accordionControlElement9,
+            this.accordionControlElement10});
+            this.accordionControlElement15.Name = "accordionControlElement15";
+            this.accordionControlElement15.Text = "二、Java基础";
+            // 
+            // accordionControlElement7
+            // 
+            this.accordionControlElement7.Name = "accordionControlElement7";
+            this.accordionControlElement7.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement7.Text = "进制转换基础";
+            // 
+            // accordionControlElement8
+            // 
+            this.accordionControlElement8.Name = "accordionControlElement8";
+            this.accordionControlElement8.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement8.Text = "补码基础";
+            // 
+            // accordionControlElement9
+            // 
+            this.accordionControlElement9.Name = "accordionControlElement9";
+            this.accordionControlElement9.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement9.Text = "16进制";
+            // 
+            // accordionControlElement10
+            // 
+            this.accordionControlElement10.Name = "accordionControlElement10";
+            this.accordionControlElement10.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement10.Text = "Java数据类型";
+            // 
+            // accordionControlElement11
+            // 
+            this.accordionControlElement11.Name = "accordionControlElement11";
+            this.accordionControlElement11.Text = "三、Java运算符";
+            // 
+            // accordionControlElement12
+            // 
+            this.accordionControlElement12.Name = "accordionControlElement12";
+            this.accordionControlElement12.Text = "四、Java流程控制";
+            // 
+            // accordionControlElement13
+            // 
+            this.accordionControlElement13.Name = "accordionControlElement13";
+            this.accordionControlElement13.Text = "五、Java数组";
+            // 
+            // accordionControlElement14
+            // 
+            this.accordionControlElement14.Name = "accordionControlElement14";
+            this.accordionControlElement14.Text = "六、标识符与关键字";
+            // 
+            // accordionControlElement16
+            // 
+            this.accordionControlElement16.Name = "accordionControlElement16";
+            this.accordionControlElement16.Text = "七、面向对象(OO)";
+            // 
+            // accordionControlElement17
+            // 
+            this.accordionControlElement17.Name = "accordionControlElement17";
+            this.accordionControlElement17.Text = "八、内部类";
+            // 
+            // accordionControlElement18
+            // 
+            this.accordionControlElement18.Name = "accordionControlElement18";
+            this.accordionControlElement18.Text = "九、继承与接口";
+            // 
+            // tabNavigationPage2
+            // 
+            this.tabNavigationPage2.Caption = "tabNavigationPage2";
+            this.tabNavigationPage2.Controls.Add(this.splitContainerControl9);
+            this.tabNavigationPage2.Name = "tabNavigationPage2";
+            this.tabNavigationPage2.PageText = "编程思想";
+            this.tabNavigationPage2.Size = new System.Drawing.Size(915, 468);
+            // 
+            // splitContainerControl9
+            // 
+            this.splitContainerControl9.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainerControl9.Location = new System.Drawing.Point(0, 0);
+            this.splitContainerControl9.Name = "splitContainerControl9";
+            this.splitContainerControl9.Panel1.Controls.Add(this.accordionControl9);
+            this.splitContainerControl9.Panel1.Text = "Panel1";
+            this.splitContainerControl9.Panel2.Text = "Panel2";
+            this.splitContainerControl9.Size = new System.Drawing.Size(915, 468);
+            this.splitContainerControl9.SplitterPosition = 163;
+            this.splitContainerControl9.TabIndex = 2;
+            this.splitContainerControl9.Text = "splitContainerControl2";
+            // 
+            // accordionControl9
+            // 
+            this.accordionControl9.Cursor = System.Windows.Forms.Cursors.Default;
+            this.accordionControl9.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.accordionControl9.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement60,
+            this.accordionControlElement73,
+            this.accordionControlElement146,
+            this.accordionControlElement151,
+            this.accordionControlElement152,
+            this.accordionControlElement153,
+            this.accordionControlElement154,
+            this.accordionControlElement155,
+            this.accordionControlElement156,
+            this.accordionControlElement157});
+            this.accordionControl9.Location = new System.Drawing.Point(0, 0);
+            this.accordionControl9.Name = "accordionControl9";
+            this.accordionControl9.Size = new System.Drawing.Size(163, 468);
+            this.accordionControl9.TabIndex = 1;
+            this.accordionControl9.Text = "accordionControl9";
+            // 
+            // accordionControlElement60
+            // 
+            this.accordionControlElement60.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement74,
+            this.accordionControlElement61,
+            this.accordionControlElement63,
+            this.accordionControlElement64,
+            this.accordionControlElement65,
+            this.accordionControlElement66,
+            this.accordionControlElement67,
+            this.accordionControlElement68,
+            this.accordionControlElement69,
+            this.accordionControlElement70,
+            this.accordionControlElement71,
+            this.accordionControlElement62,
+            this.accordionControlElement72});
+            this.accordionControlElement60.Name = "accordionControlElement60";
+            this.accordionControlElement60.Text = "一、对象入门";
+            // 
+            // accordionControlElement74
+            // 
+            this.accordionControlElement74.Name = "accordionControlElement74";
+            this.accordionControlElement74.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement74.Text = "抽象的进步";
+            // 
+            // accordionControlElement61
+            // 
+            this.accordionControlElement61.Name = "accordionControlElement61";
+            this.accordionControlElement61.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement61.Text = "对象的接口";
+            // 
+            // accordionControlElement63
+            // 
+            this.accordionControlElement63.Name = "accordionControlElement63";
+            this.accordionControlElement63.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement63.Text = "实现方案的隐藏";
+            // 
+            // accordionControlElement64
+            // 
+            this.accordionControlElement64.Name = "accordionControlElement64";
+            this.accordionControlElement64.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement64.Text = "方案的重复使用";
+            // 
+            // accordionControlElement65
+            // 
+            this.accordionControlElement65.Name = "accordionControlElement65";
+            this.accordionControlElement65.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement65.Text = "继承：重新使用接口";
+            // 
+            // accordionControlElement66
+            // 
+            this.accordionControlElement66.Name = "accordionControlElement66";
+            this.accordionControlElement66.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement66.Text = "多形对象的互换使用";
+            // 
+            // accordionControlElement67
+            // 
+            this.accordionControlElement67.Name = "accordionControlElement67";
+            this.accordionControlElement67.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement67.Text = "对象的创建和存在时间";
+            // 
+            // accordionControlElement68
+            // 
+            this.accordionControlElement68.Name = "accordionControlElement68";
+            this.accordionControlElement68.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement68.Text = "违例控制：解决错误";
+            // 
+            // accordionControlElement69
+            // 
+            this.accordionControlElement69.Name = "accordionControlElement69";
+            this.accordionControlElement69.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement69.Text = "多线程";
+            // 
+            // accordionControlElement70
+            // 
+            this.accordionControlElement70.Name = "accordionControlElement70";
+            this.accordionControlElement70.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement70.Text = "永久性";
+            // 
+            // accordionControlElement71
+            // 
+            this.accordionControlElement71.Name = "accordionControlElement71";
+            this.accordionControlElement71.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement71.Text = "Java和因特网";
+            // 
+            // accordionControlElement62
+            // 
+            this.accordionControlElement62.Name = "accordionControlElement62";
+            this.accordionControlElement62.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement62.Text = "分析和设计";
+            // 
+            // accordionControlElement72
+            // 
+            this.accordionControlElement72.Name = "accordionControlElement72";
+            this.accordionControlElement72.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement72.Text = "Java还是C++";
+            // 
+            // accordionControlElement73
+            // 
+            this.accordionControlElement73.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement75,
+            this.accordionControlElement143,
+            this.accordionControlElement144,
+            this.accordionControlElement145});
+            this.accordionControlElement73.Name = "accordionControlElement73";
+            this.accordionControlElement73.Text = "二、一切都是对象";
+            // 
+            // accordionControlElement75
+            // 
+            this.accordionControlElement75.Name = "accordionControlElement75";
+            this.accordionControlElement75.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement75.Text = "用句柄操作对象";
+            // 
+            // accordionControlElement143
+            // 
+            this.accordionControlElement143.Name = "accordionControlElement143";
+            this.accordionControlElement143.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement143.Text = "所有对象都必须创建";
+            // 
+            // accordionControlElement144
+            // 
+            this.accordionControlElement144.Name = "accordionControlElement144";
+            this.accordionControlElement144.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement144.Text = "绝对不要清除对象";
+            // 
+            // accordionControlElement145
+            // 
+            this.accordionControlElement145.Name = "accordionControlElement145";
+            this.accordionControlElement145.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement145.Text = "新建数据类型：类";
+            // 
+            // accordionControlElement146
+            // 
+            this.accordionControlElement146.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement147,
+            this.accordionControlElement148,
+            this.accordionControlElement149,
+            this.accordionControlElement150});
+            this.accordionControlElement146.Name = "accordionControlElement146";
+            this.accordionControlElement146.Text = "三、控制程序流程";
+            // 
+            // accordionControlElement147
+            // 
+            this.accordionControlElement147.Name = "accordionControlElement147";
+            this.accordionControlElement147.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement147.Text = "使用Java运算符";
+            // 
+            // accordionControlElement148
+            // 
+            this.accordionControlElement148.Name = "accordionControlElement148";
+            this.accordionControlElement148.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement148.Text = "执行控制";
+            // 
+            // accordionControlElement149
+            // 
+            this.accordionControlElement149.Name = "accordionControlElement149";
+            this.accordionControlElement149.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement149.Text = "总结";
+            // 
+            // accordionControlElement150
+            // 
+            this.accordionControlElement150.Name = "accordionControlElement150";
+            this.accordionControlElement150.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement150.Text = "练习";
+            // 
+            // accordionControlElement151
+            // 
+            this.accordionControlElement151.Name = "accordionControlElement151";
+            this.accordionControlElement151.Text = "四、初始化和清除";
+            // 
+            // accordionControlElement152
+            // 
+            this.accordionControlElement152.Name = "accordionControlElement152";
+            this.accordionControlElement152.Text = "五、隐藏实施过程";
+            // 
+            // accordionControlElement153
+            // 
+            this.accordionControlElement153.Expanded = true;
+            this.accordionControlElement153.Name = "accordionControlElement153";
+            this.accordionControlElement153.Text = "六、类再生";
+            // 
+            // accordionControlElement154
+            // 
+            this.accordionControlElement154.Name = "accordionControlElement154";
+            this.accordionControlElement154.Text = "七、多形性";
+            // 
+            // accordionControlElement155
+            // 
+            this.accordionControlElement155.Name = "accordionControlElement155";
+            this.accordionControlElement155.Text = "八、对象的容纳";
+            // 
+            // accordionControlElement156
+            // 
+            this.accordionControlElement156.Name = "accordionControlElement156";
+            this.accordionControlElement156.Text = "九、违例查错控制";
+            // 
+            // accordionControlElement157
+            // 
+            this.accordionControlElement157.Name = "accordionControlElement157";
+            this.accordionControlElement157.Text = "十、Java IO系统";
+            // 
+            // tabNavigationPage1
+            // 
+            this.tabNavigationPage1.Caption = "tabNavigationPage1";
+            this.tabNavigationPage1.Controls.Add(this.splitContainerControl5);
+            this.tabNavigationPage1.Name = "tabNavigationPage1";
+            this.tabNavigationPage1.PageText = "初级入门";
+            this.tabNavigationPage1.Size = new System.Drawing.Size(915, 468);
+            // 
+            // splitContainerControl5
+            // 
+            this.splitContainerControl5.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainerControl5.Location = new System.Drawing.Point(0, 0);
+            this.splitContainerControl5.Name = "splitContainerControl5";
+            this.splitContainerControl5.Panel1.Controls.Add(this.accordionControl5);
+            this.splitContainerControl5.Panel1.Text = "Panel1";
+            this.splitContainerControl5.Panel2.Controls.Add(this.pictureBox1);
+            this.splitContainerControl5.Panel2.Text = "Panel2";
+            this.splitContainerControl5.Size = new System.Drawing.Size(915, 468);
+            this.splitContainerControl5.SplitterPosition = 179;
+            this.splitContainerControl5.TabIndex = 1;
+            this.splitContainerControl5.Text = "splitContainerControl2";
+            // 
+            // accordionControl5
+            // 
+            this.accordionControl5.Cursor = System.Windows.Forms.Cursors.Default;
+            this.accordionControl5.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.accordionControl5.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement21,
+            this.accordionControlElement56,
+            this.accordionControlElement125,
+            this.accordionControlElement128});
+            this.accordionControl5.Location = new System.Drawing.Point(0, 0);
+            this.accordionControl5.Name = "accordionControl5";
+            this.accordionControl5.Size = new System.Drawing.Size(179, 468);
+            this.accordionControl5.TabIndex = 1;
+            this.accordionControl5.Text = "accordionControl5";
+            // 
+            // accordionControlElement21
+            // 
+            this.accordionControlElement21.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement22,
+            this.accordionControlElement23,
+            this.accordionControlElement24,
+            this.accordionControlElement53,
+            this.accordionControlElement54,
+            this.accordionControlElement45,
+            this.accordionControlElement46,
+            this.accordionControlElement47,
+            this.accordionControlElement55});
+            this.accordionControlElement21.Expanded = true;
+            this.accordionControlElement21.Name = "accordionControlElement21";
+            this.accordionControlElement21.Text = "一、Java概述";
+            // 
+            // accordionControlElement22
+            // 
+            this.accordionControlElement22.Name = "accordionControlElement22";
+            this.accordionControlElement22.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement22.Text = "Java语言概述";
+            // 
+            // accordionControlElement23
+            // 
+            this.accordionControlElement23.Name = "accordionControlElement23";
+            this.accordionControlElement23.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement23.Text = "Java虚拟机以及跨平台原理";
+            // 
+            // accordionControlElement24
+            // 
+            this.accordionControlElement24.Name = "accordionControlElement24";
+            this.accordionControlElement24.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement24.Text = "Java主要就业方向";
+            // 
+            // accordionControlElement53
+            // 
+            this.accordionControlElement53.Name = "accordionControlElement53";
+            this.accordionControlElement53.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement53.Text = "Java不同版本";
+            // 
+            // accordionControlElement54
+            // 
+            this.accordionControlElement54.Name = "accordionControlElement54";
+            this.accordionControlElement54.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement54.Text = "Java开发环境搭建";
+            // 
+            // accordionControlElement45
+            // 
+            this.accordionControlElement45.Name = "accordionControlElement45";
+            this.accordionControlElement45.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement45.Text = "第一个Java程序实例";
+            // 
+            // accordionControlElement46
+            // 
+            this.accordionControlElement46.Name = "accordionControlElement46";
+            this.accordionControlElement46.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement46.Text = "Java类和对象的概念";
+            // 
+            // accordionControlElement47
+            // 
+            this.accordionControlElement47.Name = "accordionControlElement47";
+            this.accordionControlElement47.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement47.Text = "Java类库及其组织结构";
+            // 
+            // accordionControlElement55
+            // 
+            this.accordionControlElement55.Name = "accordionControlElement55";
+            this.accordionControlElement55.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement55.Text = "Java import";
+            // 
+            // accordionControlElement56
+            // 
+            this.accordionControlElement56.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement57,
+            this.accordionControlElement58,
+            this.accordionControlElement59});
+            this.accordionControlElement56.Expanded = true;
+            this.accordionControlElement56.Name = "accordionControlElement56";
+            this.accordionControlElement56.Text = "二、Java语法基础";
+            // 
+            // accordionControlElement57
+            // 
+            this.accordionControlElement57.Name = "accordionControlElement57";
+            this.accordionControlElement57.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement57.Text = "Java数据类型及变量的定义";
+            // 
+            // accordionControlElement58
+            // 
+            this.accordionControlElement58.Name = "accordionControlElement58";
+            this.accordionControlElement58.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement58.Text = "Java数据类型定义";
+            // 
+            // accordionControlElement59
+            // 
+            this.accordionControlElement59.Name = "accordionControlElement59";
+            this.accordionControlElement59.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement59.Text = "Java运算符";
+            // 
+            // accordionControlElement125
+            // 
+            this.accordionControlElement125.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement126,
+            this.accordionControlElement127,
+            this.accordionControlElement137});
+            this.accordionControlElement125.Expanded = true;
+            this.accordionControlElement125.Name = "accordionControlElement125";
+            this.accordionControlElement125.Text = "三、Java类与对象";
+            // 
+            // accordionControlElement126
+            // 
+            this.accordionControlElement126.Name = "accordionControlElement126";
+            this.accordionControlElement126.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement126.Text = "Java类的定义及其实例化";
+            // 
+            // accordionControlElement127
+            // 
+            this.accordionControlElement127.Name = "accordionControlElement127";
+            this.accordionControlElement127.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement127.Text = "Java访问修饰符";
+            // 
+            // accordionControlElement137
+            // 
+            this.accordionControlElement137.Name = "accordionControlElement137";
+            this.accordionControlElement137.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement137.Text = "Java变量的作用域";
+            // 
+            // accordionControlElement128
+            // 
+            this.accordionControlElement128.Elements.AddRange(new DevExpress.XtraBars.Navigation.AccordionControlElement[] {
+            this.accordionControlElement138,
+            this.accordionControlElement139,
+            this.accordionControlElement140});
+            this.accordionControlElement128.Expanded = true;
+            this.accordionControlElement128.Name = "accordionControlElement128";
+            this.accordionControlElement128.Text = "四、Java继承和多态";
+            // 
+            // accordionControlElement138
+            // 
+            this.accordionControlElement138.Name = "accordionControlElement138";
+            this.accordionControlElement138.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement138.Text = "继承的概念与实现";
+            // 
+            // accordionControlElement139
+            // 
+            this.accordionControlElement139.Name = "accordionControlElement139";
+            this.accordionControlElement139.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement139.Text = "Java super关键字";
+            // 
+            // accordionControlElement140
+            // 
+            this.accordionControlElement140.Name = "accordionControlElement140";
+            this.accordionControlElement140.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement140.Text = "继承中的方法的覆盖和重载";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(731, 468);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
+            // tabPane1
+            // 
+            this.tabPane1.Controls.Add(this.tabNavigationPage1);
+            this.tabPane1.Controls.Add(this.tabNavigationPage2);
+            this.tabPane1.Controls.Add(this.tabNavigationPage3);
+            this.tabPane1.Controls.Add(this.tabNavigationPage4);
+            this.tabPane1.Controls.Add(this.tabNavigationPage5);
+            this.tabPane1.Controls.Add(this.tabNavigationPage6);
+            this.tabPane1.Controls.Add(this.tabNavigationPage7);
+            this.tabPane1.Controls.Add(this.tabNavigationPage8);
+            this.tabPane1.Controls.Add(this.tabNavigationPage9);
+            this.tabPane1.Controls.Add(this.tabNavigationPage10);
+            this.tabPane1.Controls.Add(this.tabNavigationPage11);
+            this.tabPane1.Controls.Add(this.tabNavigationPage12);
+            this.tabPane1.Controls.Add(this.tabNavigationPage13);
+            this.tabPane1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tabPane1.Location = new System.Drawing.Point(0, 24);
+            this.tabPane1.Name = "tabPane1";
+            this.tabPane1.Pages.AddRange(new DevExpress.XtraBars.Navigation.NavigationPageBase[] {
+            this.tabNavigationPage1,
+            this.tabNavigationPage2,
+            this.tabNavigationPage3,
+            this.tabNavigationPage4,
+            this.tabNavigationPage5,
+            this.tabNavigationPage6,
+            this.tabNavigationPage7,
+            this.tabNavigationPage9,
+            this.tabNavigationPage8,
+            this.tabNavigationPage10,
+            this.tabNavigationPage11,
+            this.tabNavigationPage12,
+            this.tabNavigationPage13});
+            this.tabPane1.RegularSize = new System.Drawing.Size(933, 514);
+            this.tabPane1.SelectedPage = this.tabNavigationPage2;
+            this.tabPane1.Size = new System.Drawing.Size(933, 514);
+            this.tabPane1.TabIndex = 21;
+            this.tabPane1.Text = "C";
+            // 
+            // accordionControlElement119
+            // 
+            this.accordionControlElement119.Name = "accordionControlElement119";
+            this.accordionControlElement119.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement119.Text = "Python练习题18";
+            // 
+            // accordionControlElement116
+            // 
+            this.accordionControlElement116.Name = "accordionControlElement116";
+            this.accordionControlElement116.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
+            this.accordionControlElement116.Text = "Python练习题17";
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
@@ -2275,9 +3308,25 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.Name = "MainForm";
-            this.Text = "Python Easy Go";
+            this.Text = "Java Easy Go";
             ((System.ComponentModel.ISupportInitialize)(this.barManagerMain)).EndInit();
+            this.tabNavigationPage13.ResumeLayout(false);
+            this.tabNavigationPage12.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl12)).EndInit();
+            this.splitContainerControl12.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.accordionControl12)).EndInit();
+            this.tabNavigationPage11.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl11)).EndInit();
+            this.splitContainerControl11.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.accordionControl11)).EndInit();
+            this.tabNavigationPage10.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl10)).EndInit();
+            this.splitContainerControl10.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.accordionControl10)).EndInit();
             this.tabNavigationPage8.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl7)).EndInit();
+            this.splitContainerControl7.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.accordionControl7)).EndInit();
             this.tabNavigationPage9.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl8)).EndInit();
             this.splitContainerControl8.ResumeLayout(false);
@@ -2310,6 +3359,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl5)).EndInit();
             this.splitContainerControl5.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.accordionControl5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tabPane1)).EndInit();
             this.tabPane1.ResumeLayout(false);
             this.ResumeLayout(false);
@@ -2337,142 +3387,6 @@
         private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement51;
         private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement52;
         private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement4;
-        private DevExpress.XtraBars.Navigation.TabPane tabPane1;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage1;
-        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl5;
-        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl5;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement21;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement22;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement23;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement24;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement53;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement54;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement45;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement46;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement47;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement55;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement56;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement57;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement58;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement59;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage2;
-        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl9;
-        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl9;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement60;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement74;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement61;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement63;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement64;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement65;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement66;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement67;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement68;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement69;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement70;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement71;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement62;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement72;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement73;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement75;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage3;
-        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl1;
-        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl1;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement1;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement2;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement3;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement6;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement5;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement15;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement7;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement8;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement9;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement10;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement11;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement12;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement13;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement14;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement16;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement17;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement18;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement19;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage4;
-        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl2;
-        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl2;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement20;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement26;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement27;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement28;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement29;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement30;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement31;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement32;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement33;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement34;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement35;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement36;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement37;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement38;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement39;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage5;
-        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl3;
-        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl3;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement40;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement76;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement77;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement78;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement79;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement80;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement81;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement82;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement83;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement84;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement85;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement86;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement87;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement88;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement89;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage6;
-        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl4;
-        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl4;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement90;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement91;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement92;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement93;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement94;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement95;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement96;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement97;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement98;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement99;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement100;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement101;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement102;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement103;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement104;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage7;
-        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl6;
-        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl6;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement105;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement106;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement107;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement108;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement109;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement110;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement111;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement112;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement113;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage8;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage9;
-        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl8;
-        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl8;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement129;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement130;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement131;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement132;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement133;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement134;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement135;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement136;
         private DevExpress.XtraBars.BarSubItem barSubItem2;
         private DevExpress.XtraBars.BarSubItem barSubItem3;
         private DevExpress.XtraBars.BarSubItem barSubItem4;
@@ -2551,20 +3465,280 @@
         private DevExpress.XtraBars.BarStaticItem barStaticItem38;
         private DevExpress.XtraBars.BarStaticItem barStaticItem39;
         private DevExpress.XtraBars.BarSubItem barSubItem18;
-        private System.Windows.Forms.WebBrowser webBrowser1;
-        private System.Windows.Forms.WebBrowser webBrowser2;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement114;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement115;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement116;
-        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement119;
         private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement120;
         private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement121;
         private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement122;
         private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement123;
         private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement124;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement141;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement142;
+        private DevExpress.XtraBars.Navigation.TabPane tabPane1;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage1;
+        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl5;
+        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl5;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement21;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement22;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement23;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement24;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement53;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement54;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement45;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement46;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement47;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement55;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement56;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement57;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement58;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement59;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement125;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement126;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement127;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement137;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement128;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement138;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement139;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement140;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage2;
+        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl9;
+        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl9;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement60;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement74;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement61;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement63;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement64;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement65;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement66;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement67;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement68;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement69;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement70;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement71;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement62;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement72;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement73;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement75;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement143;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement144;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement145;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement146;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement147;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement148;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement149;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement150;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement151;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement152;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement153;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement154;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement155;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement156;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement157;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage3;
+        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl1;
+        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl1;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement1;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement2;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement3;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement6;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement5;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement158;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement159;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement160;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement161;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement162;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement163;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement164;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement165;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement166;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement15;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement7;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement8;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement9;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement10;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement11;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement12;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement13;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement14;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement16;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement17;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement18;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage4;
+        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl2;
+        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl2;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement20;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement26;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement27;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement28;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement29;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement30;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement31;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement19;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement33;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement34;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement35;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement36;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement37;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement38;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement169;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage5;
+        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl3;
+        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl3;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement40;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement76;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement77;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement78;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement79;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement80;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement81;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement82;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement83;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement84;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement85;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement86;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement87;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement88;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement89;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement114;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement115;
         private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement117;
         private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement118;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage6;
+        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl4;
+        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl4;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement90;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement91;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement92;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement93;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement94;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement95;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement96;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage7;
+        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl6;
+        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl6;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement105;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement106;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement107;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement108;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement109;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement110;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement111;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement112;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement113;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage8;
         private System.Windows.Forms.WebBrowser webBrowser3;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage9;
+        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl8;
+        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl8;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement129;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement130;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement131;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement132;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement133;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement134;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement135;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement136;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage10;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage11;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage12;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage tabNavigationPage13;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement32;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement39;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement167;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement168;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement170;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement119;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement116;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement97;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement98;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement99;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement100;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement101;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement102;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement103;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement104;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement171;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement172;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement173;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement174;
+        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl7;
+        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl7;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement184;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement185;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement186;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement187;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement188;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement189;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement196;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement197;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement198;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement175;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement176;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement177;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement178;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement179;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement180;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement181;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement182;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement183;
+        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl10;
+        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl10;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement201;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement202;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement203;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement204;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement205;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement206;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement207;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement208;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement209;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement210;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement213;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement190;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement191;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement192;
+        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl11;
+        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl11;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement218;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement219;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement220;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement221;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement222;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement230;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement231;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement232;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement233;
+        private DevExpress.XtraEditors.SplitContainerControl splitContainerControl12;
+        private DevExpress.XtraBars.Navigation.AccordionControl accordionControl12;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement235;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement236;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement237;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement238;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement239;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement240;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement241;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement242;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement243;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement244;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement245;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement246;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement247;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement248;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement249;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement250;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement251;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement193;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement194;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement195;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement199;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement200;
+        private DevExpress.XtraBars.Navigation.AccordionControlElement accordionControlElement211;
+        private System.Windows.Forms.WebBrowser webBrowser4;
+        private DevExpress.XtraBars.BarSubItem barSubItem19;
+        private DevExpress.XtraBars.BarStaticItem barStaticItem59;
+        private DevExpress.XtraBars.BarStaticItem barStaticItem60;
+        private DevExpress.XtraBars.BarStaticItem barStaticItem61;
+        private DevExpress.XtraBars.BarStaticItem barStaticItem62;
+        private DevExpress.XtraBars.BarStaticItem barStaticItem63;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 

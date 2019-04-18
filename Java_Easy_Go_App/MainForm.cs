@@ -15,12 +15,5 @@ namespace Java_Easy_Go_App
         {
             InitializeComponent();
         }
-
-        private void tabPane1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-
     }
 }
