@@ -1,2 +1,2 @@
-# ExcelBatchProcessingApp  
-A Winform App that could batch process excel documents. 
+# Java_Easy_Go_App
+A Winform App that could learn Java. 
